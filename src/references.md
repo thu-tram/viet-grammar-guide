@@ -1,8 +1,16 @@
 # References
 
+- [Vietnamese verbs - YourVietnamese](https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs/)
+- [Vietnamese Classifiers: Vietnamese Grammar's Cái, Con, and Everything You Need to Know](https://migaku.com/blog/language-fun/vietnamese-classifiers)
+- [Learn Vietnamese Grammar](https://www.101languages.net/vietnamese/grammar.html)
+- [Vietnamese Sentence Structure: The Complete Guide (That Actually Makes Sense)](https://migaku.com/blog/language-fun/vietnamese-sentence-structure)
+- [Learn Vietnamese Grammar](https://www.101languages.net/vietnamese/grammar.html)
 - [20+ VIETNAMESE CONJUNCTIONS WHICH ARE FREQUENTLY USED IN DAILY CONVERSATION](https://learningvietnamese.edu.vn/blog/vietnamese-grammar/vietnamese-conjunctions/?lang=en)
 - [Vietnamese conjunctions and negations](https://yourvietnamese.com/learn-vietnamese/vietnamese-conjunctions-and-negations/)
 - [HOW TO SAY BECAUSE IN VIETNAMESE](https://flexiclasses.com/vietnamese-grammar-bank/because-in-vietnamese/)
 - [Vì thế / Do đó / Bởi vậy... - Therefore / So (For that reason)](https://vietnameseconversation.blogspot.com/2017/06/vi-do-o-boi-vay-therefore-so-for-that.html)
 - [Conditional sentences in Vietnamese](https://flexiclasses.com/vietnamese-grammar-bank/conditional-sentences-in-vietnamese/)
 - [Conditional Sentences: “Nếu… thì…”](https://hanoilanguage.vn/conditional-sentences-neu-thi/)
+- [“Để” and “Cho” to Indicate Purposes](https://openbooks.lib.msu.edu/vietnamese/chapter/u11-grammar/)
+- [VIETNAMESE SIMULTANEOUS ACTIONS](https://flexiclasses.com/vietnamese-grammar-bank/simultaneous-actions/)
+- [QUANTIFIERS IN VIETNAMESE](https://flexiclasses.com/vietnamese-grammar-bank/quantifiers-in-vietnamese/)
