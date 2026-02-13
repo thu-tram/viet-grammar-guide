@@ -1,0 +1,6 @@
+[book]
+authors = ["thu-tram"]
+language = "en"
+multilingual = false
+title = "Thư trạm's guide to vietnamese grammar"
+src = "src"
