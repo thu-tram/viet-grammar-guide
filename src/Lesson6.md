@@ -1,33 +1,90 @@
 # Lesson 6: Modifying nouns with adjectives and verb phrases
 
-Understanding Vietnamese adjective placement is crucial for clear communication. Unlike English, where adjectives typically come before nouns, Vietnamese follows different rules. Once you internalize these patterns, basic Vietnamese adjectives will flow naturally in your sentences.
+### Describing nouns: main idea first
 
-### Attributive placement after nouns
+When Vietnamese describes a thing, it names the thing first and then adds details. You hear what it is before you hear what it’s like or what it does. This logic stays the same whether the description is a single word or a whole action.
 
-When an adjective directly describes a noun, it comes after that noun -- the opposite of English word order. Think of it as naming the thing first, then adding its quality. This pattern applies to all attributive adjectives without exception.
+### Descriptions come after the noun
 
--   *áo đỏ* (red shirt) -- literally "shirt red"
+Unlike English, adjectives follow the noun they describe.
 
--   *người cao* (tall person) -- literally "person tall"
+<pre>
+xe đỏ
+(a red car)
+</pre>
 
-### Predicative placement without linking verbs
+<pre>
+người cao
+(a tall person)
+</pre>
 
-When making a statement about a subject, the adjective follows the subject directly without any linking verb. The adjective itself carries the meaning of "being" that quality. This structure feels strange at first but becomes intuitive with practice.
+The noun comes first. The description comes after.
 
--   *Món này ngon* (This dish is delicious) -- literally "Dish this delicious"
+### Adjectives as modifiers
 
--   *Em bé buồn* (The baby is sad) -- literally "Baby sad"
+The same adjectives you’ve seen as full sentences (_Trời lạnh_, _Cô ấy cao_) can also sit after a noun and act as labels.
 
-### Order of multiple adjectives
+<pre>
+cà phê nóng
+(hot coffee)
+</pre>
 
-When stacking multiple adjectives, Vietnamese follows a general sequence. While this order has some flexibility, following it produces the most natural-sounding sentences:
+<pre>
+áo đẹp
+(a beautiful shirt)
+</pre>
 
-1.  Size: *to* (big), *nhỏ* (small)
+### Actions as descriptions (no “who / which / that”)
 
-2.  Shape: *tròn* (round), *vuông* (square)
+Vietnamese doesn’t use words like _who_, _which_, or _that_.
+Instead, an entire verb phrase can follow a noun and describe it directly.
 
-3.  Quality: *đẹp* (beautiful), *tốt* (good)
+<pre>
+người ăn bánh mì
+(the person eating <i>bánh mì</i>)
+</pre>
 
-4.  Color: *đỏ* (red), *xanh* (blue/green)
+<pre>
+bạn học tiếng Việt
+(the friend studying Vietnamese)
+</pre>
 
-5.
+<pre>
+cửa hàng bán hoa
+(the shop that sells flowers)
+</pre>
+
+### Stacking details
+
+You can add more than one detail after a noun. Each word further narrows down what you mean. *Noticing the flow*: When multiple descriptions follow a noun, they usually flow from more general to more identifying details. There is no strict order you need to memorize — just notice how speakers naturally add information step by step.
+
+<pre>
+xe đỏ cũ
+(an old red car)
+</pre>
+
+<pre>
+nhà nhỏ yên tĩnh
+(a small, quiet house)
+</pre>
+
+*Everything comes after the noun.*
+
+### Seeing the pattern in sentences
+
+<pre>
+Tôi thích cà phê nóng.
+(I like hot coffee.)
+</pre>
+
+<pre>
+Cô ấy mua xe cũ.
+(She bought a used car.)
+</pre>
+
+<pre>
+Đây là người sống ở Hà Nội.
+(This is the person who lives in Hanoi.)
+</pre>
+
+Because there are no linking words, a noun followed by a verb can briefly look like a full sentence. With context, you’ll naturally notice when the verb is just giving extra information about the noun rather than starting a new idea.

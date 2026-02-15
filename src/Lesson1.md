@@ -25,7 +25,7 @@ Here, **sách này** (“this book”) is the topic. The rest of the sentence is
 Because context carries so much weight, Vietnamese frequently drops explicit subjects when they are obvious:
 
 <pre>
-**Ăn rồi.**
+Ăn rồi.
 “(I/you/he) already ate.”
 </pre>
 

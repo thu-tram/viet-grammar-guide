@@ -61,6 +61,6 @@ Trời mưa.
 
 Here, the verb itself carries the core meaning of the sentence.
 
-### A note on flexibility
+### Notes
 
 Because verbs do not show tense on their own, Vietnamese relies heavily on context. In conversation, time is often understood without being stated. When needed, speakers add time words or small markers to make things clearer, but the verb form itself stays the same.

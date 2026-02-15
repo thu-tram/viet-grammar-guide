@@ -2,8 +2,10 @@
 
 - [Vietnamese verbs - YourVietnamese](https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs/)
 - [Vietnamese Classifiers: Vietnamese Grammar's Cái, Con, and Everything You Need to Know](https://migaku.com/blog/language-fun/vietnamese-classifiers)
+- [Preply: Vietnamese Adjectives](https://preply.com/en/blog/vietnamese-adjectives-2)  
 - [Learn Vietnamese Grammar](https://www.101languages.net/vietnamese/grammar.html)
 - [Vietnamese Sentence Structure: The Complete Guide (That Actually Makes Sense)](https://migaku.com/blog/language-fun/vietnamese-sentence-structure)
+- [Talkpal: Possessive pronouns with "của"](https://talkpal.ai/grammar/possessive-pronouns-in-vietnamese-grammar)  
 - [Learn Vietnamese Grammar](https://www.101languages.net/vietnamese/grammar.html)
 - [20+ VIETNAMESE CONJUNCTIONS WHICH ARE FREQUENTLY USED IN DAILY CONVERSATION](https://learningvietnamese.edu.vn/blog/vietnamese-grammar/vietnamese-conjunctions/?lang=en)
 - [Vietnamese conjunctions and negations](https://yourvietnamese.com/learn-vietnamese/vietnamese-conjunctions-and-negations/)
