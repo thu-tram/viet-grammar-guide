@@ -1,0 +1,225 @@
+Here are key online explanations for each lesson topic:
+
+
+**Lesson 1: Topic–comment and basic word order**  
+- Wikipedia: Vietnamese grammar (topic-prominent, SVO base, examples like "Sách này thì tôi đọc rồi") → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- YourVietnamese: Sentence structure (SVO like English) → https://yourvietnamese.com/learn-vietnamese/sentence-structure  
+- 101languages: Grammar overview (SVO + topic-comment) → https://www.101languages.net/vietnamese/grammar.html  
+- Migaku: Sentence structure guide (SVO details) → https://migaku.com/blog/language-fun/vietnamese-sentence-structure  
+
+**Lesson 2: State and identity with and without “là”**  
+- Wikipedia: Distinguishes nouns (là allowed) from verbs/adjectives (là omitted) → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- YouTube: "How to use 'LÀ'" (identity sentences) → https://www.youtube.com/watch?v=z8M1Bs5Rgrk  
+
+**Lesson 3: Nouns and bare nouns**  
+- Wikipedia: Bare nouns unmarked for number/definiteness → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- LingQ: Nouns guide (no plural/gender, classifiers) → https://www.lingq.com/en/grammar-resource/vietnamese/nouns  
+- Migaku: Classifiers + bare usage → https://migaku.com/blog/language-fun/vietnamese-classifiers  
+
+**Lesson 4: Verbs (no conjugation)**  
+- YourVietnamese: Verbs lesson (no conjugation, tense via particles) → https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs  
+- VietnamesePod101: Verbs (context-based tense) → https://www.vietnamesepod101.com/vietnamese-verbs  
+- Wikibooks: Tense (no conjugation) → https://en.wikibooks.org/wiki/Vietnamese/Tense  
+
+**Lesson 5: Adjectives as stative verbs**  
+- Wikipedia: Stative verbs/adjectives (no là, degree modifiers) → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- Preply: Adjectives (predicate without linking verb) → https://preply.com/en/blog/vietnamese-adjectives-2  
+- LingQ: Adjectives (stand alone as predicates) → https://www.lingq.com/en/grammar-resource/vietnamese/adjectives  
+- YourVietnamese: Adjectives lesson → https://yourvietnamese.com/learn-vietnamese/vietnamese-adjectives
+
+**Lesson 6: Modifying nouns with adjectives and verb phrases**  
+- YourVietnamese: Adjectives after nouns (e.g., noun + adjective) → https://yourvietnamese.com/learn-vietnamese/vietnamese-adjectives  
+- YourVietnamese: Sentence structure (adjectives post-noun) → https://yourvietnamese.com/learn-vietnamese/sentence-structure  
+- Preply: Adjectives follow nouns, attributive use → https://preply.com/en/blog/vietnamese-adjectives-2  
+- Migaku: Adjectives after nouns → https://migaku.com/blog/language-fun/vietnamese-grammar-guide  
+
+**Lesson 7: Possession with “của” and noun–noun structures**  
+- Vietnamese Maestro: Expressing possession with "của" (placement, omission) → https://vietnamesemaestro.com/grammar/expressing-possession-with-c%E1%BB%A7a  
+- Learn-Vietnamese.com: "Của" for ownership, omission cases → https://learn-vietnamese.com/grammar/how-to-use-cua-possession-vietnamese-meaning  
+- The Languages: Possession structure "[possessor] của [possessed]" → https://thelanguages.com/vietnamese/nouns  
+
+**Lesson 8: Existence with “có” and “không có”**  
+- Wikipedia: "Có" for existence/possession → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- Glosbe: "Có" as exist/have → https://vi.glosbe.com/en/vi/exist  
+
+**Lesson 9: Location with “ở”**  
+- Hanoi L&C Academy: Prepositions of location (ở + place) → https://hanoilanguage.vn/prepositions-of-location-in-vietnamese  
+- Flexi Classes: Particle "ở" for location → https://flexiclasses.com/vietnamese-grammar-bank/vietnamese-prepositions  
+- LingQ: "Ở" for at/in/on → https://www.lingq.com/en/grammar-resource/vietnamese/prepositions  
+- Talkpal: Prepositions of place including "ở" → https://talkpal.ai/grammar/prepositions-of-place-in-vietnamese-grammar  
+
+**Lesson 10: Basic negation with “không”, “chưa”, “chẳng”**  
+- Talkpal: Negation differences ("không" general, "chưa" not yet, "chẳng" colloquial/emphatic) → http://realedu.opalstacked.com/learn-vietnamese/vietnamese-conjunctions-and-negations/
+- YourVietnamese: Negation overview (links to related) → https://yourvietnamese.com/learn-vietnamese/vietnamese-grammar-in-short-lessons
+
+**Lesson 11: Yes–no questions**  
+- Migaku: "Có... không?" structure → https://migaku.com/blog/language-fun/no-in-vietnamese  
+- LearnVietnamese.com.vn: 3 main expressions (statement + không?, có...không?, có phải...không?) → https://learnvietnamese.com.vn/en/elementary-lesson-4-yesno-question.html  
+- Duolinguists: Adding à/(phải) không or rising tone → https://duolinguists.wordpress.com/2022/03/15/vietnamese-question-structure  
+- SVFF YouTube: Yes/no questions with verbs/adjectives → https://www.youtube.com/watch?v=VIQ8b1mKk7w  
+
+**Lesson 12: Question words and placement**  
+- Flexi Classes: Question words (gì, ai, đâu, khi nào) + placement (end or start for ai/khi nào) → https://flexiclasses.com/vietnamese-grammar-bank/vietnamese-questions  
+- Ling App: Ai (who), ở đâu (where), gì (what), placement rules → https://ling-app.com/blog/vietnamese-question-words  
+- Talkpal: Question words replace answer position → https://talkpal.ai/culture/what-are-the-question-words-in-vietnamese  
+- Wikipedia: No wh-movement, in-situ placement → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+
+**Lesson 13: Sentence-final particles (à, hả, nhé, nhỉ, ạ, etc.)**  
+- Tumblr (Obsessed with Languages): Types (question: à/hả/nhỉ/chứ; suggestion: nhé; politeness: ạ/dạ) → https://language-obsession.tumblr.com/post/121148041944/particles-in-vietnamese  
+- TVO YouTube: Nhé/nhỉ usage + exercises → https://www.youtube.com/watch?v=Mc8NDCxAhIg  
+- VLStudies: Nhỉ/ha for judgment/exclamation → https://vlstudies.wordpress.com/2018/04/24/ending-particle-nhi-ha  
+- Tieng Viet Oi YouTube: Nè + other finals → https://www.youtube.com/watch?v=vJZG7EkjjTE  
+
+**Lesson 14: Time words and time placement**  
+- YourVietnamese: Adverbs/time words after verbs/objects → https://yourvietnamese.com/learn-vietnamese/sentence-structure  
+- Preply: Time-of-day markers (sáng, trưa, chiều, tối) placement → https://preply.com/en/blog/telling-time-in-vietnamese  
+- LingQ: Time adverbs flexible, often before verb → https://www.lingq.com/en/grammar-resource/vietnamese/adverbs  
+- Migaku: Time via context/particles, SVO base → https://migaku.com/blog/language-fun/vietnamese-sentence-structure  
+
+**Lesson 15: Aspect markers: đã, đang, sẽ, rồi, từng**  
+- YourVietnamese: Đã (past), đang (ongoing), sẽ (future), rồi (completed) → https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs  
+- Migaku: Đã (past), đang (progressive), sẽ (future); optional → https://migaku.com/blog/language-fun/vietnamese-sentence-structure  
+- Talkpal: Perfective (đã/rồi), imperfective (đang), prospective (sắp) → https://talkpal.ai/grammar/verb-conjugation-in-vietnamese-grammar  
+
+**Lesson 16: Completed vs ongoing actions**  
+- YourVietnamese: Đã (past/completed), đang (ongoing), rồi (completed/emphasis) → https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs  
+- Migaku: Đã (past), đang (progressive/ongoing), rồi (completed) → https://migaku.com/blog/language-fun/vietnamese-sentence-structure  
+- Flexi Classes: Đã/rồi for completed past actions → https://flexiclasses.com/vietnamese-grammar-bank/past-tense-in-vietnamese  
+- Talkpal: Perfective (đã/rồi/xong completed) vs imperfective (đang ongoing) → https://talkpal.ai/grammar/verb-conjugation-in-vietnamese-grammar  
+- Wikipedia: Đang (continuous), đã + rồi (completed) → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+
+**Lesson 17: Serial verb constructions (đi mua ăn, làm xong đi ngủ)**  
+- Pronuncia: Motion + main verb (đi mua, đi ăn, đi ngủ) patterns → https://pronuncia.io/learn/vi/serial-verb-constructions  
+- Talkpal: Sequential/combined actions (đi mua đồ ăn, đến chơi) → https://talkpal.ai/master-vietnamese-verbs-essential-guide-to-speak-like-a-local  
+- Flashcards.world: Examples like đi tham quan, đi chụp ảnh, ăn xong → https://flashcards.world/flashcards/sets/5c029528-86de-4242-a526-06aa4120c278  
+
+**Lesson 18: Result verbs and complements**  
+- Flashcards.world: Resultative compounds (ăn xong finished eating, làm xong) → https://flashcards.world/flashcards/sets/7f55a6bb-7b3d-4ee7-ba3b-fc9ed80af77f  
+- Wikipedia: Complements for result/outcome in verb phrases → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+
+**Lesson 19: Adverbs and adverb placement**  
+- YourVietnamese: Adverbs after verb/object or flexible → https://yourvietnamese.com/learn-vietnamese/vietnamese-adverbs  
+- Vietlango: Placement rules (before verb/adjective, after object for manner) → https://vietlango.com/grammar_theory/position-of-adverbs-in-vietnamese-sentences  
+- LingQ: Flexible, typically before verb/adjective → https://www.lingq.com/en/grammar-resource/vietnamese/adverbs  
+
+**Lesson 20: Degree words (rất, khá, hơi, quá, lắm)**  
+- Hanoi L&C Academy: Rất/quá/lắm with adjectives/adverbs/modal verbs → https://hanoilanguage.vn/how-to-use-the-word-rat-qua-lam-in-vietnamese  
+- Flexi Classes: Rất (very), quá (too), hơi (slightly) patterns → https://flexiclasses.com/vietnamese-grammar-bank/expressing-very  
+- Preply: Intensifiers (rất very, khá quite, hơi slightly, quá too) → https://preply.com/en/blog/vietnamese-adjectives-2  
+- YouTube SVFF: Rất/khá/hơi placement in noun phrases → https://www.youtube.com/watch?v=uceaiGuKsPI
+
+
+**Lesson 21: Comparison with “hơn”, “bằng”, “nhất”**  
+- Hanoi L&C Academy: Structures for hơn (more), bằng (equal), nhất (most) → https://hanoilanguage.vn/comparison-in-vietnamese-grammar-hon-bang-nhat  
+- Flexi Classes: Basic comparisons (hơn, ít hơn, bằng, nhất) → https://flexiclasses.com/vietnamese-grammar-bank/basic-comparisons  
+- Preply: Adjectives with hơn/bằng/nhất → https://preply.com/en/blog/vietnamese-adjectives-2  
+- YouTube: Lesson on hơn, bằng, nhất → https://www.youtube.com/watch?v=OoukU7cgk7w  
+
+**Lesson 22: Equality and difference**  
+- Phuong Nam Education: Equality (bằng/như/giống như), difference (khác với) → https://learnvietnamese.com.vn/en/comparison-in-vietnamese.html  
+- Flexi Classes: Bằng for as...as → https://flexiclasses.com/vietnamese-grammar-bank/basic-comparisons  
+- Wikibooks: Comparisons including equality → https://en.wikibooks.org/wiki/Vietnamese/Comparison  
+- Hanoi L&C Academy: Bằng for equal comparisons → https://hanoilanguage.vn/comparison-in-vietnamese-grammar-hon-bang-nhat  
+
+**Lesson 23: Direction and movement verbs**  
+- YouTube TVO: Moving verbs (đi, đến, về, ra, vào, lên, xuống) → https://www.youtube.com/watch?v=t_x8Gj9k-uY  
+- SVFF: Mastering motion verbs (đi, về, lại, lên) → https://info.svff.online/mastering-vietnamese-motion-verbs-a-beginners-guide  
+- Hanoi L&C Academy: Differences between đi, đến, về → https://hanoilanguage.vn/the-difference-between-di-den-ve-in-vietnamese  
+- YouTube: Ra, đi, lên, lại usage → https://www.youtube.com/watch?v=2mRNbXQlj9k  
+
+**Lesson 24: Arrival, departure, and destination**  
+- Hanoi L&C Academy: Đi/đến/về for movement to/from destinations → https://hanoilanguage.vn/the-difference-between-di-den-ve-in-vietnamese  
+- Preply: Directions including arrival/departure phrases → https://preply.com/en/blog/directions-in-vietnamese  
+- Flexi Classes: Giving directions (đến, về, ra, vào) → https://flexiclasses.com/vietnamese-grammar-bank/directions-in-vietnamese  
+- YouTube: Đi, đến, về for arrival/departure → https://www.youtube.com/watch?v=ET8ZEXSToys  
+
+**Lesson 25: Giving and receiving (cho, đưa, nhận)**  
+- YouTube: Đưa/cho/tặng/biếu (give) vs nhận (receive) antonyms → https://www.youtube.com/watch?v=WF2LBh6ZH6o  
+- SEALANG: Verbs of giving/taking (đưa, giao, nhận) → http://sealang.net/archives/mks/pdf/25:141-159.pdf  
+- Migaku: Verb usage in context (includes giving verbs) → https://migaku.com/blog/language-fun/vietnamese-grammar-guide
+
+
+**Lesson 26: Benefactive constructions (làm cho ai)**  
+- Hanabira: Causative 'làm/làm cho/khiến' (includes benefactive-like 'làm cho') → https://hanabira.org/langs/vietnamese/grammarpoint/Causative%20verb%20'l%C3%A0m/l%C3%A0m%20cho/khi%E1%BA%BFn'  
+- ResearchGate: Semantic/syntactic analysis of Vietnamese causatives (làm cho) → https://www.researchgate.net/publication/238165545_A_Semantic_and_Syntactic_Analysis_of_Vietnamese_Causatives  
+- ULIS: Cho in Vietnamese (benefactive/causative uses) → https://ulis.vnu.edu.vn/files/uploads/2017/06/LamQuangDong-Give1.doc  
+
+**Lesson 27: Ability with “có thể”, “biết”**  
+- SVFF: Mastering modal verbs (có thể for ability/permission, biết for skills) → https://info.svff.online/mastering-modal-verbs-in-vietnamese-a-guide-for-beginners  
+- ResearchGate: English "can" vs Vietnamese "có thể" (includes biết) → https://www.researchgate.net/publication/330316205_The_English_Modal_can_and_Its_Vietnamese_Counterpart_co_the  
+
+**Lesson 28: Permission and prohibition (được, không được)**  
+- Wasabi: Vietnamese Essential Grammar (không được for prohibition) → https://s3.us-west-1.wasabisys.com/p-library/books/8cb147eea7a7ebf9a2f093d608c2d529.pdf  
+- ResearchGate: "Can" counterparts (được/không được for permission/prohibition) → https://www.researchgate.net/publication/330316205_The_English_Modal_can_and_Its_Vietnamese_Counterpart_co_the  
+
+**Lesson 29: Obligation and necessity (phải, cần, nên)**  
+- Hanoi L&C Academy: Nên/cần/phải (should/need/must differences) → https://hanoilanguage.vn/nen-can-phai-should-need-must-in-vietnamese  
+- SVFF: Modal verbs (phải must, cần need, nên should) → https://info.svff.online/mastering-modal-verbs-in-vietnamese-a-guide-for-beginners  
+- YouTube SVFF: Modal verbs including phải/cần/nên → https://www.youtube.com/watch?v=0g2JESP5LI0  
+
+**Lesson 30: Wanting and intending (muốn, định)**  
+- Flexi Classes: Intentions (định for intend, muốn for want differences) → https://flexiclasses.com/vietnamese-grammar-bank/intentions-in-vietnamese  
+- SEAsite: Grammar patterns (muốn want, định intend) → https://seasite.niu.edu/vietnamese/uniLesson13/L13_grammar.htm
+
+
+**Lesson 31: Linking clauses with “và”, “nhưng”, “hoặc”**  
+- YourVietnamese: Conjunctions (và and, nhưng but, hay/or hoặc or) → https://yourvietnamese.com/learn-vietnamese/vietnamese-conjunctions-and-negations  
+- Jellyfish Vietnam: Coordinating conjunctions (và, nhưng, hoặc/hay) examples → https://learningvietnamese.edu.vn/blog/vietnamese-grammar/vietnamese-conjunctions?lang=en  
+- Talkpal: Compound-complex sentences (và, hoặc, nhưng) → https://talkpal.ai/grammar/compound-complex-sentences-in-vietnamese-grammar  
+- Duolingo Wiki: Conjunctions skill (nếu, hoặc, nhưng) → https://duolingo.fandom.com/wiki/Vietnamese_Skill:Conjunctions  
+
+**Lesson 32: Cause and reason (vì, tại, do)**  
+- Flexi Classes: Vì/do/bởi vì for because/cause → https://flexiclasses.com/vietnamese-grammar-bank/because-in-vietnamese  
+- Hanoi L&C Academy: Tại sao questions + vì answers → https://hanoilanguage.vn/make-questions-with-tai-sao-and-how-to-answer  
+- Flexi Classes: Tại sao/vì sao distinctions → https://flexiclasses.com/vietnamese-grammar-bank/vietnamese-questions  
+
+**Lesson 33: Result and consequence (nên, cho nên, thành ra)**  
+- VNU Journal: Conjunctives of result (cho/vậy nên) → https://jfs.ulis.vnu.edu.vn/index.php/fs/article/download/5002/4330/10873  
+- Reddit: Vì thế/do đó/bởi vậy therefore → https://www.reddit.com/r/learnvietnamese/comments/6jf6dd/vietnamese_grammar_v%C3%AC_th%E1%BA%BF_do_%C4%91%C3%B3_b%E1%BB%9Fi_v%E1%BA%ADy_therefore  
+
+**Lesson 34: Condition with “nếu”**  
+- Flexi Classes: Nếu...thì conditional sentences → https://flexiclasses.com/vietnamese-grammar-bank/conditional-sentences-in-vietnamese  
+- Hanoi L&C Academy: Nếu...thì structure + examples → https://hanoilanguage.vn/conditional-sentences-neu-thi  
+- Flexi Classes: Nếu như/if not → https://flexiclasses.com/vietnamese-grammar-bank/if-in-vietnamese  
+
+**Lesson 35: Purpose with “để”**  
+- Flexi Classes: Để for in order to/purpose → https://flexiclasses.com/vietnamese-grammar-bank/how-to-say-in-order-to  
+- Flexi Classes: Purpose structures (để, nhằm, vì) → https://flexiclasses.com/vietnamese-grammar-bank/purpose-of-action-in-vietnamese  
+- Open Textbook: Để/cho purpose → https://openbooks.lib.msu.edu/vietnamese/chapter/u11-grammar
+
+
+**Lesson 36: Lists and enumeration**  
+- YourVietnamese: Conjunctions for lists (và, cùng với) → https://yourvietnamese.com/learn-vietnamese/vietnamese-conjunctions-and-negations  
+- Wikipedia: Bare nouns with classifiers (các, những for plural/enumeration) → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+
+**Lesson 37: Contrast and adversatives (nhưng, tuy nhiên, mà)**  
+- Flexi Classes: Nhưng/nhưng mà/tuy…nhưng for contrast → https://flexiclasses.com/vietnamese-grammar-bank/but-in-vietnamese  
+- Hanoi L&C Academy: Tuy…nhưng structure → https://hanoilanguage.vn/how-to-use-the-structure-tuynhung-in-vietnamese  
+- Flexi Classes: Mặc dù…nhưng, trong khi for adversatives → https://flexiclasses.com/vietnamese-grammar-bank/contrast-in-vietnamese  
+- YourVietnamese: Nhưng for but/contrast → https://yourvietnamese.com/learn-vietnamese/vietnamese-conjunctions-and-negations  
+
+**Lesson 38: Concurrence and simultaneity**  
+- Flexi Classes: Vừa…vừa for simultaneous actions → https://flexiclasses.com/vietnamese-grammar-bank/simultaneous-actions  
+
+**Lesson 39: Relative-clause-like noun modification**  
+- VietLango: Mà for relative-like modification (người mà, cái mà) → https://vietlango.com/understanding-vietnamese-sentence-structure  
+- Wikipedia: Mà as relativizer in noun phrases → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- Migaku: Post-nominal modifiers (including clause-like with mà/đang/đã/sẽ) → https://migaku.com/blog/language-fun/vietnamese-grammar-guide
+
+
+**Lesson 40: Emphasis and fronting**  
+- Migaku: Topic-comment with fronting for emphasis (e.g., Sách này thì tôi đọc rồi) → https://migaku.com/blog/language-fun/vietnamese-sentence-structure  
+- Wikipedia: Topic-prominent restructuring, fronting topic (thì marker optional) → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- 101 Languages: Topic-comment emphasis examples → https://www.101languages.net/vietnamese/grammar.html  
+- Talkpal: Topic-comment altering SVO for emphasis → https://talkpal.ai/master-vietnamese-sentence-structure-a-simple-guide-to-fluent-speaking  
+
+**Lesson 41: Counting and classifiers**  
+- Migaku: Classifiers cái/con/người basics, numeral + classifier + noun → https://migaku.com/blog/language-fun/vietnamese-classifiers  
+- Wikipedia: Classifier system, common ones (cái, con), position → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- Phuong Nam Education: Classifiers with counting examples → https://learnvietnamese.com.vn/en/vietnamese-common-classifiers.html  
+- YouTube: Classifier/counter word explanation → https://www.youtube.com/watch?v=Zv99kAX0-7g  
+
+**Lesson 42: Quantifiers (mỗi, mọi, vài, nhiều)**  
+- Flexi Classes: Quantifiers (một ít, một vài, nhiều, không có) + mỗi/mọi/vài → https://flexiclasses.com/vietnamese-grammar-bank/quantifiers-in-vietnamese  
+- Wikipedia: Quantifiers list (mỗi each, mọi every, vài few, nhiều much/many) → https://en.wikipedia.org/wiki/Vietnamese_grammar  
+- YouTube SVFF: Nhiều/ít/một số/một ít (includes vài) → https://www.youtube.com/watch?v=ShYtWPXhhUk

@@ -1,0 +1,566 @@
+<!DOCTYPE HTML>
+<html lang="en" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Thư trạm&#x27;s guide to vietnamese grammar</title>
+        <meta name="robots" content="noindex">
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Thư trạm&#x27;s guide to vietnamese grammar</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="thu-trams-guide-to-viet-grammar"><a class="header" href="#thu-trams-guide-to-viet-grammar">thu tram's guide to viet grammar</a></h1>
+<p><em>phong ba bão táp không bằng ngữ pháp Tiếng Việt</em> (Literally "<em>storms cannot be compared to the Vietnamese grammar</em>")</p>
+<p>Welcome to <strong>thu tram's guide to viet grammar</strong>!</p>
+<p>The <strong>Common</strong> Grammar Guide.</p>
+<p><em>Dedicated to all those who learn, want to learn, and <strong>will</strong> learn.</em></p>
+<p>This grammar guide is an <strong>open</strong> and <strong>community-maintained</strong> project (inspired by <a href="https://yoku.bi/">yoku.bi</a>). We accept all kinds of helpful contributions.</p>
+<p>You are welcome to join our <a href="https://discord.gg/jJjaCH3Bc2">discord community</a> for feedback, comments, reviews, or just to chat.</p>
+<p>If you want to contribute, you can view the project <a href="https://github.com/thu-tram/viet-grammar-guide">on github</a> and file issues and pull requests.</p>
+<p><strong>DO NOT</strong> skip reading the <a href="Before-you-begin.html">Before you begin</a> and <a href="Preamble.html">Preamble</a> pages. They give you instructions on how to use this guide.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="before-you-begin"><a class="header" href="#before-you-begin">Before you begin</a></h1>
+<h2 id="what-you-need"><a class="header" href="#what-you-need">What you need</a></h2>
+<p>This guide assumes that you're learning vocabulary outside this guide. It can't teach you enough words to be useful without getting in the way of the grammar.</p>
+<p>If you need more guidance for things other than grammar, try reading the <a href="https://daihocmo.github.io/learn-vietnamese/guide/">guide</a>.</p>
+<h2 id="how-to-use-this-guide-and-learn-vietnamese"><a class="header" href="#how-to-use-this-guide-and-learn-vietnamese">How to use this guide and Learn Vietnamese</a></h2>
+<p>Basically, this guide is a primer. This guide takes a very specific stance: The only way to acquire language features and become fluent is to consume them in a real context. This guide doesn't try to drill you, and that's a good thing.</p>
+<p>When you read this guide, don't try to memorize it. It won't work.</p>
+<p>You shouldn't spend a week on each lesson. In fact, one new lesson a day might be too slow, even if you're also reviewing old lessons.</p>
+<p>Every single main lesson in this guide covers basic grammar. You should read the entire thing as quickly as possible. It's important to get stuff in your head sooner rather than later. It gives it time to grow, subconsciously, and even if you didn't feel like you learned it the first time, it makes it easier to remember it for good next time. Just don't get stuck reviewing it forever.</p>
+<p>After you get far enough in this guide, you should start trying to consume Vietnamese content. Especially reading. This guide will tell you when it's a good time to start, but if you want to try earlier you don't need to wait.</p>
+<p>Trying to read on a regular basis, even if you can't do it for more than five minutes, tells you exactly what your weak points are, and gives you a sense of progress. This guide exposes you to grammar to let you break down things, but you need to consume real Vietnamese to turn that exposure into acquisition.</p>
+<p>The most efficient way to learn vocabulary is to start picking up words from media you enjoy, then memorize them with flashcards. This is called mining. Anki is the recommended flashcard program because it uses Spaced Repetition, which shows you stuff less often the better you know it. You can use frequency lists or shared decks prepared by other people at first if you don't want to mine or find the process of immersing in Vietnamese media still too hard. A good starter deck is the <a href="https://ankiweb.net/shared/info/285983903">Basic Vietnamese for English Speakers</a> deck.</p>
+<p>If you want to speak Vietnamese, you must consume audible spoken Vietnamese, otherwise you'll sound unnatural. It doesn't matter if it's <em>hoạt hình</em> or news or living in Vietnam, you just have to consume it in the spoken unwritten form. This can come after you learn how to read, but you should passively expose yourself to it (with anything: drama, tv shows, <em>truyện tranh</em>, <em>hoạt hình</em>, etc) as early as possible, otherwise it'll take a long time for your brain to pick up on nuanced sound differences. If you spend most of your time reading and ignore the spoken language, you can also acquire unnatural pronunciation that might be harder to fix later.</p>
+<h2 id="help"><a class="header" href="#help">"Help!"</a></h2>
+<p>Don't sweat it. Try to find a way to use this guide in a nice low stress way. Don't angst out about something being hard. Some things just take time.</p>
+<p>If you still don't know what to do, or you came back here confused:</p>
+<ul>
+<li>Start learning the basics (vocabulary) outside this guide.</li>
+<li>Start studying vocabulary outside this guide.</li>
+<li>Remind yourself that Vietnamese is not a literal transposition of English word-by-word.</li>
+<li>A lot of concepts will not make sense in terms of literal English.</li>
+<li>You can't acquire a language without consuming it.</li>
+<li>Until you consume enough Vietnamese, some things simply won't click.</li>
+<li>Always keep moving forward. That's what gives you the language.</li>
+</ul>
+<p>Do not memorize this guide. It won't work. It might even be bad for you.</p>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/G5IPArDxO40?si=oF-5bVY6SNMsnPTY"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2 id="still-stuck"><a class="header" href="#still-stuck">Still stuck?</a></h2>
+<p>It's true that everyone learns the same way when it comes to mastery, fluency, exposure, and real world experience, but it's not true that everyone learns the same way when it comes to deliberate study. This guide is deliberate study, and it might not be right for everyone. If it doesn't start working after two weeks, try other resources. Reading explanations about the same thing in different places can make it easier to understand.</p>
+<p>Just make sure you don't burn yourself out trying to master them. Mastery only comes from real world experience, and in the case of language learning, that means reading and listening.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="preamble"><a class="header" href="#preamble">Preamble</a></h1>
+<p>This guide will cover most of the grammar needed to understand basic Vietnamese. It's not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like <a href="https://yomitan.wiki/">Yomitan</a> so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons.</p>
+<p>There are no exercises:</p>
+<ul>
+<li>Skill building, as in reading a grammar explanation and answering questions about it, doesn't work when it comes to learning a new language.</li>
+<li>A lot of people are poisoned by modern education and will basically fry their brains if there's anything to "work" on.</li>
+<li>Grammar guides are a terrible place to learn vocabulary.</li>
+</ul>
+<p>Not even the best linguists in the entire world can explain simple ideas like "gonna" with any less than an impenetrable book-length essay. That's not a matter of philosophy, it's a matter of explaining what things really mean, or how they work. Simple incomplete explanations are good, but have holes in them. This guide tries to walk the line and warn you about things it can't explain, but it's really hard. As a reader, you are expected to be flexible and take things written here at "face value". Understand that this is <strong>how</strong> Vietnamese works, and that asking <strong>why</strong> is often not going to lead you anywhere.</p>
+<p>This grammar guide does its best to give you some basic exposure to Vietnamese grammar. It can't <strong>teach</strong> you it. It can only introduce you to it. Your job is to turn that exposure into acquisition. The exposure is just a foot in the door.</p>
+<p>And, by all means, if something is too hard, skip it. You're not trying to memorize something so you can identify it with 100% precision when you're consuming Vietnamese.</p>
+<p>You're trying to get something into your head. If you can't, that's fine, you'll pick it up naturally later.</p>
+<p>Don't look back.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lesson-1-topiccomment-and-basic-word-order"><a class="header" href="#lesson-1-topiccomment-and-basic-word-order">Lesson 1: Topic–comment and basic word order</a></h1>
+<p>Vietnamese sentences are often organized around what you are talking about first, and then what you want to say about it. This is called the <strong>topic–comment</strong> pattern, and it is one of the most important things to notice early on.</p>
+<p>At a basic level, Vietnamese can look similar to English. You will often see sentences that resemble Subject–Verb–Object order. However, Vietnamese is not built around the subject in the same way English is. Instead, sentences are frequently shaped by <strong>context</strong> and <strong>topic</strong>.</p>
+<p>Consider a simple sentence:</p>
+<pre>
+Anh ăn cơm.
+“He eats rice.”
+</pre>
+<p>This looks straightforward. But Vietnamese allows much more flexibility than English. The sentence does not have to be built strictly around “he” as a grammatical subject. What matters more is what the sentence is <em>about</em>.</p>
+<p>Very often, Vietnamese brings the topic to the front and then adds a comment about it:</p>
+<pre>
+Sách này tôi đọc rồi.
+“This book, I’ve already read.”
+</pre>
+<p>Here, <strong>sách này</strong> (“this book”) is the topic. The rest of the sentence is a comment about that topic.</p>
+<p>Because context carries so much weight, Vietnamese frequently drops explicit subjects when they are obvious:</p>
+<pre>
+Ăn rồi.
+“(I/you/he) already ate.”
+</pre>
+<p>Who ate is not stated, because the situation already makes it clear. This happens constantly in real Vietnamese.</p>
+<p>Word order is therefore more flexible than in English. Elements can move to the front to set context, emphasize something, or clarify what the speaker is talking about. Meaning is not determined by position alone, but by how the sentence fits into the surrounding context.</p>
+<pre>
+Xong bài tập hôm nay rồi.
+(I) have already done my homework for today.
+</pre>
+<p>A useful thing to remember is that Vietnamese sentences are shaped less by fixed rules and more by information flow. You will see many variations in real input. The important part for now is to notice the pattern: topic first, then comment, with context doing much of the work.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lesson-2-state-and-identity-with-and-without-là"><a class="header" href="#lesson-2-state-and-identity-with-and-without-là">Lesson 2: State and identity with and without “là”</a></h1>
+<p>Vietnamese does not use a single word like “to be” for everything. Instead, it expresses identity and state in different ways, often depending on what kind of word comes next and what the context is.</p>
+<p>When you are defining or identifying someone or something with a noun, Vietnamese commonly uses <em>là</em> to link the two parts:</p>
+<pre>
+Tôi là sinh viên.
+“I’m a student.”
+</pre>
+<pre>
+Anh ấy là bác sĩ.
+“He’s a doctor.”
+</pre>
+<p>Here, <em>là</em> connects one noun to another and signals identity or classification.</p>
+<p>When you are describing how someone or something is, Vietnamese usually does not use <em>là</em>. Adjectives and stative verbs work directly as the predicate:</p>
+<pre>
+Tôi mệt.
+“I’m tired.”
+</pre>
+<pre>
+Cô ấy cao.
+“She’s tall.”
+</pre>
+<pre>
+Trời lạnh.
+“It’s cold.”
+</pre>
+<p>In these sentences, there is no linking word. The description itself functions as the core of the sentence. This is very common and natural in Vietnamese.</p>
+<p>You may also hear sentences like: <em>Cô ấy thì cao.</em> or <em>Trời thì lạnh.</em> Here, <em>thì</em> marks the topic and adds a slight sense of contrast or framing, often implying “as for her” or “as for the weather.” These sentences are still grammatical, but they carry a bit more structure and emphasis. In neutral descriptions, especially when no contrast is intended, the simpler forms without <em>thì</em> sound more natural and are used more often.</p>
+<p>Many Vietnamese sentences express “being” without any explicit word for it. Meaning comes from context rather than from a verb like “is” or “are”.</p>
+<p>Sometimes <em>là</em> can appear for emphasis or contrast, especially when the speaker wants to clearly frame something as an identity rather than a description. Most of the time, though, its presence or absence simply follows the structure of the sentence and what kind of meaning is being expressed.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lesson-3-nouns-and-bare-nouns"><a class="header" href="#lesson-3-nouns-and-bare-nouns">Lesson 3: Nouns and bare nouns</a></h1>
+<p>In Vietnamese, nouns usually appear in their bare form. There are no articles like “a” or “the”, and nouns do not change form to show plural. The same noun can refer to one thing, many things, or an entire category.</p>
+<p>Because of this, meaning comes mainly from context, not from the noun itself.</p>
+<pre>
+Tôi thích cà phê.
+“I like coffee.”
+</pre>
+<p>Here, <em>cà phê</em> refers to coffee in general. The same bare noun can also be used in more specific situations:</p>
+<pre>
+Tôi mua cà phê.
+“I bought coffee.”
+</pre>
+<p>Depending on context, this could mean some coffee, a coffee drink, or coffee as a product. The form of the noun does not change.</p>
+<p>Bare nouns can also refer to whole classes or concepts:</p>
+<pre>
+Mèo thích cá.
+“Cats like fish.”
+</pre>
+<p>Or to something specific when the situation already makes it clear:</p>
+<pre>
+Bé mèo đâu rồi?
+“Where’s the cat?”
+</pre>
+<p>Vietnamese sometimes adds small words to make a noun more specific or limited, but this is optional. The bare noun remains the default.</p>
+<pre>
+Mấy con mèo chạy mất rồi.
+“Those few cats ran away.”
+</pre>
+<pre>
+Tôi cần một quyển sách.
+“I need a book.”
+</pre>
+<p>These added words help narrow down meaning, but they are not required for a noun to work in a sentence.</p>
+<p>The key thing to notice is that Vietnamese nouns themselves do not encode number or definiteness. Instead, listeners rely on context and, when needed, simple markers to understand whether a noun is general, specific, singular, or plural.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="vietnamese-verbs-one-form-many-meanings"><a class="header" href="#vietnamese-verbs-one-form-many-meanings">Vietnamese verbs: one form, many meanings</a></h1>
+<p>Vietnamese verbs stay in a single form. They do not change for person, number, or time. This makes verbs feel stable on the surface, while meaning comes from context and surrounding words.</p>
+<p>A verb looks the same whether the subject is “I,” “she,” or “they,” and whether it refers to now, before, or later.</p>
+<h3 id="how-verbs-work-in-sentences"><a class="header" href="#how-verbs-work-in-sentences">How verbs work in sentences</a></h3>
+<p>The verb itself does not show tense. Instead, time and aspect are understood from context, time words, or small helper words placed around the verb.</p>
+<p>The verb can stand directly as the predicate. There is no need for a linking verb like “to be.”</p>
+<pre>
+Tôi đi.
+(I go / I’m going.)
+</pre>
+<pre>
+Cô ấy đi.
+(She goes / She’s going.)
+</pre>
+<p>The verb <em>đi</em> stays exactly the same in both sentences.</p>
+<h3 id="time-comes-from-outside-the-verb"><a class="header" href="#time-comes-from-outside-the-verb">Time comes from outside the verb</a></h3>
+<p>Time is usually clear from the situation or from time expressions, not from changing the verb.</p>
+<pre>
+Hôm qua tôi ăn phở.
+(Yesterday I ate phở.)
+</pre>
+<pre>
+Bây giờ tôi ăn.
+(Right now I’m eating.)
+</pre>
+<pre>
+Mai tôi ăn phở.
+(Tomorrow I’ll eat phở.)
+</pre>
+<p>(<em>yep, we eat Phở all day</em>)</p>
+<p>The verb <em>ăn</em> does not change. Words like <em>hôm qua</em>, <em>bây giờ</em>, <em>mai</em> guide how the sentence is understood.</p>
+<h3 id="verbs-as-direct-descriptions"><a class="header" href="#verbs-as-direct-descriptions">Verbs as direct descriptions</a></h3>
+<p>Verbs can describe actions or states without any extra linking word.</p>
+<pre>
+Tôi chạy nhanh.
+(I run fast / I’m running fast.)
+</pre>
+<pre>
+Trời mưa.
+(It’s raining.)
+</pre>
+<p>Here, the verb itself carries the core meaning of the sentence.</p>
+<h3 id="notes"><a class="header" href="#notes">Notes</a></h3>
+<p>Because verbs do not show tense on their own, Vietnamese relies heavily on context. In conversation, time is often understood without being stated. When needed, speakers add time words or small markers to make things clearer, but the verb form itself stays the same.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lesson-5-adjectives-as-stative-verbs-states"><a class="header" href="#lesson-5-adjectives-as-stative-verbs-states">Lesson 5: Adjectives as stative verbs (states)</a></h1>
+<p>In Vietnamese, describing a person or an object is remarkably straightforward. You don't need to juggle different forms of the verb "to be" (am, is, are) because the descriptive words themselves already do that work for you. We call these <strong>stative verbs</strong> because they describe a <em>state</em> of being rather than an action.</p>
+<h3 id="no-to-be-no-là"><a class="header" href="#no-to-be-no-là">No “to be,” no <em>là</em></a></h3>
+<p>Because words like <em>đẹp</em> (beautiful), <em>cao</em> (tall), or <em>mệt</em> (tired) already include the meaning of “is / am / are” (or: <em>the “to be” meaning is already inside the adjective</em>), you do not use <em>là</em>.
+“Subject + adjective” is already a complete sentence.</p>
+<pre>
+Em đẹp.
+(You’re beautiful.)
+</pre>
+<pre>
+Cô ấy cao.
+(She’s tall.)
+</pre>
+<pre>
+Trà nóng.
+(The tea is hot.)
+</pre>
+<p>Using <em>là</em> here (<em>Em là đẹp</em>) sounds unnatural, because nothing extra is needed to link the subject and the description.</p>
+<h3 id="states-not-actions"><a class="header" href="#states-not-actions">States, not actions</a></h3>
+<p>These words describe how someone or something is, not what they are doing.</p>
+<pre>
+Em đói.
+(I’m hungry.) → a state
+</pre>
+<pre>
+Em ăn.
+(I eat / I’m eating.) → an action
+</pre>
+<p>Even though they feel different in English, Vietnamese treats both in a similar sentence pattern.</p>
+<h3 id="negation-works-like-verbs"><a class="header" href="#negation-works-like-verbs">Negation works like verbs</a></h3>
+<p>Adjectives are negated directly with <em>không</em>, just like verbs.</p>
+<pre>
+Cô ấy không mệt.
+(She isn’t tired.)
+</pre>
+<pre>
+Phòng này không lớn.
+(This room isn’t big.)
+</pre>
+<p>Nothing changes in the adjective itself; <em>không</em> simply comes before it.</p>
+<h3 id="topiccomment-feel"><a class="header" href="#topiccomment-feel">Topic–comment feel</a></h3>
+<p>Often, the sentence feels like “as for X, here’s how it is.” The adjective functions as the comment about the topic.</p>
+<pre>
+Trời lạnh.
+(It’s cold.)
+</pre>
+<pre>
+Tiếng Việt khó.
+(Vietnamese is difficult.)
+</pre>
+<p>The description alone completes the idea. No object is needed.</p>
+<p><em>Note</em>: These adjective sentences are naturally simple and complete on their own. In real speech, speakers may add small words for emphasis or tone, but the core pattern stays the same: the adjective directly describes the subject, without <em>là</em> and without changing form.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lesson-6-modifying-nouns-with-adjectives-and-verb-phrases"><a class="header" href="#lesson-6-modifying-nouns-with-adjectives-and-verb-phrases">Lesson 6: Modifying nouns with adjectives and verb phrases</a></h1>
+<h3 id="describing-nouns-main-idea-first"><a class="header" href="#describing-nouns-main-idea-first">Describing nouns: main idea first</a></h3>
+<p>When Vietnamese describes a thing, it names the thing first and then adds details. You hear what it is before you hear what it’s like or what it does. This logic stays the same whether the description is a single word or a whole action.</p>
+<h3 id="descriptions-come-after-the-noun"><a class="header" href="#descriptions-come-after-the-noun">Descriptions come after the noun</a></h3>
+<p>Unlike English, adjectives follow the noun they describe.</p>
+<pre>
+xe đỏ
+(a red car)
+</pre>
+<pre>
+người cao
+(a tall person)
+</pre>
+<p>The noun comes first. The description comes after.</p>
+<h3 id="adjectives-as-modifiers"><a class="header" href="#adjectives-as-modifiers">Adjectives as modifiers</a></h3>
+<p>The same adjectives you’ve seen as full sentences (<em>Trời lạnh</em>, <em>Cô ấy cao</em>) can also sit after a noun and act as labels.</p>
+<pre>
+cà phê nóng
+(hot coffee)
+</pre>
+<pre>
+áo đẹp
+(a beautiful shirt)
+</pre>
+<h3 id="actions-as-descriptions-no-who--which--that"><a class="header" href="#actions-as-descriptions-no-who--which--that">Actions as descriptions (no “who / which / that”)</a></h3>
+<p>Vietnamese doesn’t use words like <em>who</em>, <em>which</em>, or <em>that</em>.
+Instead, an entire verb phrase can follow a noun and describe it directly.</p>
+<pre>
+người ăn bánh mì
+(the person eating <i>bánh mì</i>)
+</pre>
+<pre>
+bạn học tiếng Việt
+(the friend studying Vietnamese)
+</pre>
+<pre>
+cửa hàng bán hoa
+(the shop that sells flowers)
+</pre>
+<h3 id="stacking-details"><a class="header" href="#stacking-details">Stacking details</a></h3>
+<p>You can add more than one detail after a noun. Each word further narrows down what you mean. <em>Noticing the flow</em>: When multiple descriptions follow a noun, they usually flow from more general to more identifying details. There is no strict order you need to memorize — just notice how speakers naturally add information step by step.</p>
+<pre>
+xe đỏ cũ
+(an old red car)
+</pre>
+<pre>
+nhà nhỏ yên tĩnh
+(a small, quiet house)
+</pre>
+<p><em>Everything comes after the noun.</em></p>
+<h3 id="seeing-the-pattern-in-sentences"><a class="header" href="#seeing-the-pattern-in-sentences">Seeing the pattern in sentences</a></h3>
+<pre>
+Tôi thích cà phê nóng.
+(I like hot coffee.)
+</pre>
+<pre>
+Cô ấy mua xe cũ.
+(She bought a used car.)
+</pre>
+<pre>
+Đây là người sống ở Hà Nội.
+(This is the person who lives in Hanoi.)
+</pre>
+<p>Because there are no linking words, a noun followed by a verb can briefly look like a full sentence. With context, you’ll naturally notice when the verb is just giving extra information about the noun rather than starting a new idea.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="lesson-7-possession-with-của-and-nounnoun-structures"><a class="header" href="#lesson-7-possession-with-của-and-nounnoun-structures">Lesson 7: Possession with “của” and noun–noun structures</a></h1>
+<p><em>Possession: who owns what</em></p>
+<p>Vietnamese talks about possession by naming the thing first, then the person or thing it belongs to. This follows the same “main idea first” pattern you’ve already seen with adjectives and descriptions.</p>
+<p>When you say <em>xe tôi</em>, you are literally saying “car me.” The owned item comes first; the owner follows.</p>
+<h3 id="the-owner-follows-the-owned"><a class="header" href="#the-owner-follows-the-owned">The owner follows the owned</a></h3>
+<p>This word order is very stable. Whether you are talking about objects or people, the pattern stays the same.</p>
+<pre>
+xe tôi
+(my car)
+</pre>
+<pre>
+sách Lan
+(Lan’s book)
+</pre>
+<pre>
+bạn tôi
+(my friend)
+</pre>
+<p>The meaning comes from the order, not from special endings or markers.</p>
+<h3 id="the-optional-marker-của"><a class="header" href="#the-optional-marker-của">The optional marker <em>của</em></a></h3>
+<p>Vietnamese also has the word <em>của</em>, which clearly signals “belonging to” or “of.” It can appear between the object and the owner.</p>
+<pre>
+xe của tôi
+(my car)
+</pre>
+<pre>
+nhà của anh ấy
+(his house)
+</pre>
+<p>Using <em>của</em> makes the relationship explicit, but it is not always required.</p>
+<h3 id="direct-nounnoun-possession"><a class="header" href="#direct-nounnoun-possession">Direct noun–noun possession</a></h3>
+<p>In everyday speech, especially with close relationships or familiar items, <em>của</em> is often dropped. The two nouns are simply placed next to each other.</p>
+<pre>
+mẹ tôi
+(my mother)
+</pre>
+<pre>
+tay em
+(your hand)
+</pre>
+<pre>
+nhà mẹ
+(mom’s house)
+</pre>
+<h3 id="relationship-and-ownership-use-the-same-structure"><a class="header" href="#relationship-and-ownership-use-the-same-structure">Relationship and ownership use the same structure</a></h3>
+<p>The same pattern works for people and for things. There is no grammatical difference between “relationship” and “ownership” — context does the work.</p>
+<pre>
+bố tôi
+(my dad)
+</pre>
+<pre>
+công ty bố tôi
+(my dad’s company)
+</pre>
+<h3 id="clarifying-with-của"><a class="header" href="#clarifying-with-của">Clarifying with <em>của</em></a></h3>
+<p>You will notice <em>của</em> more often in longer sentences or when the speaker wants to avoid confusion or add emphasis.</p>
+<pre>
+ý kiến của người bạn tôi gặp hôm qua
+(the opinion of the friend I met yesterday)
+</pre>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>
