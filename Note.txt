@@ -1,5 +1,0 @@
-Một workflow cơ bản bao gồm:
-
-- Tìm và tổng hợp thành một hướng dẫn.
-- PROMPT: Yêu cầu AI viết là trong chủ đề này thì cần học những gì.
-- PROMPT 2: Yêu cầu AI kiểm tra xem trong hướng dẫn này đã đạt *tiêu chuẩn* (đánh giá, nhận xét xem đã bao gồm đầy đủ những gì cần học chưa)
