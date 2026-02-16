@@ -1,75 +1,69 @@
 # Lesson 11: Yes–no questions
 
-There are 3 main expressions to ask a Yes/No Question in Vietnamese:
+Creating a yes–no question in Vietnamese is often as simple as adding a question word to the end of a regular statement. You don't need to change the word order or use helper verbs like "do" or "are."
 
-## **Expression #1: statement+ “không?”**
+### Using **không**
 
-*   Using: used to ask someone whether that thing is right.
-*   To answer this kind of question, you have to know which one is the main word in the sentence.
+The most common way to ask a simple yes–no question is to add **không** at the end.
 
-Ex:
+<pre>
+Bạn đói không?
+“Are you hungry?”
+</pre>
 
-*   \- Q: Em yêu anh không? (You love me or not?)
-*   A: yêu (for yes) // không (for no)
-*   \- Q: Cô ấy trông xinh không? (She looks pretty or not?)
-*   A: xinh (for yes) // không (for no)
+You might also see the pattern **có ... không**. This makes the question slightly more formal or clear, but the meaning remains the same.
 
-Some of the same forms:
+<pre>
+Bạn có đói không?
+“Are you hungry?”
+</pre>
 
-*   S + “có” + …. + “không”?
+### Using **chưa**
 
-Ex:
+When asking if something has happened _yet_, use **chưa** at the end instead of **không**.
 
-_\- Q: Em có yêu anh không? (You có love me or not?)_
+<pre>
+Anh ăn cơm chưa?
+“Have you eaten yet?”
+</pre>
 
-_A: có (yes) / yêu (love) // không (no)_
+This is one of the most common greetings in Vietnam. It’s more of a "How are you?" than a literal question about your meal.
 
-*   statement + “chứ?”
+### Responses
 
-Ex:
+To answer, you usually repeat the verb or the adjective.
 
-_\- Q: Em yêu anh chứ? (You love me?)_
+- To say "yes," you repeat the verb or just say **có**.
+- To say "no," you say **không** or **chưa** followed by the verb.
 
-_A: vâng (yes) // không (for no)_
+<pre>
+– Đi không? (Want to go?)
+– Đi. (Yes / Going.)
+– Không đi. (No / Not going.)
+</pre>
 
-*   statement + “phải/đúng không”?
+### Examples
 
-Ex:
+<pre>
+Em hiểu không?
+“Do you understand?”
+</pre>
 
-_\- Q: Anh biết tôi, phải không? (You know me, right or not?)_
+<pre>
+Phim hay không?
+“Is the movie good?”
+</pre>
 
-_A: Phải (right) // Không (no)_
+<pre>
+Trời mưa chưa?
+“Has it rained yet?”
+</pre>
 
-## **Expression #2: statement + “được không?”**
+<pre>
+Chị có mệt không?
+“Are you tired?”
+</pre>
 
-*   Using: used to ask someone whether that action is suitable or not, or used to require the help of someone politely.
+### Note on flexibility
 
-Ex:
-
-_\- Q: Anh vui lòng giúp tôi, được không? (you please help me, could or not?)_
-
-_A: được (for yes) // không (for no)_
-
-_\- Q: Tôi có thể giải bài toán theo cách này, được không? (I can solve this arithmetic problem by this way,can or not? )_
-
-_A: được (for yes) // không (for no)_
-
-## **Expression #3: statement + “rồi chưa?”**
-
-*   Using: used to ask someone whether his task/ his action is finished or not, or whether he has done something yet or not.
-
-Ex:
-
-_\- Q: Anh đã ăn tối rồi chưa? You ate dinner already or not? (Have you eaten dinner yet?)_
-
-_A: Rồi (for yes) // chưa (for no)_
-
-_\- Q: Anh đã làm xong công việc rồi chưa? You did finish task already or not? (Have you finished doing your task?)_
-
-_A: Rồi (for yes) // chưa (for no)_
-
-\* Note: the Viet native usually uses the expression statement + “chưa?” (without the word “rồi”), it is a short form of expression statement + “rồi chưa?”
-
-Reference:
-
-LearnVietnamese.com.vn: 3 main expressions (statement + không?, có...không?, có phải...không?) → https://learnvietnamese.com.vn/en/elementary-lesson-4-yesno-question.html  
+Vietnamese questions are very melodic. You’ll notice that the tone of your voice stays relatively steady, and the word at the end does all the work of turning the statement into a question. As you listen to more Vietnamese, you’ll hear how **không** and **chưa** act like little signals that an answer is expected.

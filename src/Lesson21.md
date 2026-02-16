@@ -1,84 +1,65 @@
-https://hanoilanguage.vn/comparison-in-vietnamese-grammar-hon-bang-nhat/
-https://flexiclasses.com/vietnamese-grammar-bank/basic-comparisons/
+# Lesson 21: Comparison with “hơn”, “bằng”, “nhất”
 
-Comparison in Vietnamese Grammar: "hơn, bằng, nhất"
-===================================================
+To compare things in Vietnamese, you don't need to change the endings of adjectives (like "tall" to "taller"). Instead, you just add a comparison word after the adjective.
 
-In Vietnamese grammar, there are three main comparison words: "hơn" (more), "bằng" (equal), and "nhất" (the most). These words are used to compare two or more nouns, adjectives, or verbs. It is important to note that these comparison words are often used with other words such as adjectives or adverbs to make comparisons more precise. Today, let's start learning about comparison in Vietnamese grammar, specifically the words "hơn" , "bằng" , and "nhất".
+### More than (**hơn**)
 
-1\. Grammar note & example:
+To say something is "more [adjective]" than something else, use **hơn**.
 
-a. Bằng (as... as)
+<pre>
+Anh <b>cao hơn</b> tôi.
+“He is <b>taller than</b> me. (He <b>tall more (than)</b> me.)”
+</pre>
 
-![](https://hanoilanguage.vn/wp-content/uploads/2023/04/A%CC%89nh-ma%CC%80n-hi%CC%80nh-2023-04-27-lu%CC%81c-12.34.29.png)
+### The Most (**nhất**)
 
-The structure "bằng" use to make comparisons when the things we are comparing are equal in some way:
+To say something is the "most [adjective]," add **nhất** to the end.
 
-*Example: *
+<pre>
+Món này <b>ngon nhất</b>.
+“This dish is <b>the most delicious</b>.”
+</pre>
 
-Tôi cao bằng chị Mary.
+### As... as (**bằng**)
 
-Phòng tôi rộng bằng phòng chị gái.
+To say two things are equal in a certain quality, use **bằng**.
 
-Cái đồng hồ của anh Quang đắt bằng cái đồng hồ của chị Tina
+<pre>
+Tôi chạy <b>nhanh bằng</b> anh ấy.
+“I run <b>as fast as</b> him.”
+</pre>
 
-Tôi và chị Mary cao bằng nhau => Tôi và chị Mary cao như nhau.
+### Omitting the second item
 
-b. Hơn (more than)
+If it's already clear what you're comparing to, you can just stop after the comparison word.
 
-![](https://hanoilanguage.vn/wp-content/uploads/2023/04/A%CC%89nh-ma%CC%80n-hi%CC%80nh-2023-04-27-lu%CC%81c-12.56.15.png)
+<pre>
+Cái này <b>đẹp hơn</b>.
+“This one is <b>prettier (more beautiful)</b>.”
+</pre>
 
-We use "hơn" when we want to compare one thing with another:\
-"hơn" is often in a clause followed by another clause that gives more information or limits the more than the clause in some way.
+### Examples
 
-*Example:*
+<pre>
+Tiếng Việt <b>khó hơn</b> tiếng Anh không?
+“Is Vietnamese <b>harder than</b> English?”
+</pre>
 
-Tiếng Hàn khó hơn tiếng Anh.
+<pre>
+Hôm nay <b>nóng hơn</b> hôm qua.
+“Today is <b>hotter than</b> yesterday.”
+</pre>
 
-Anh Nam cao hơn anh Quang.
+<pre>
+Ai là người <b>giỏi nhất</b>?
+“Who is the <b>best (most talented)</b>?”
+</pre>
 
-Con rùa này to hơn con rùa kia.\
-Câu hỏi: Tiếng Hàn và tiếng Anh, tiếng nào khó hơn?\
-Trả lời: Tiếng Hàn khó hơn tiếng Anh.
+<pre>
+Nhà tôi <b>to bằng</b> nhà bạn.
+“My house is <b>as big as</b> your house.”
+</pre>
 
-c. Nhất ( the most, the best)
+### Note on nuance
 
-![](https://hanoilanguage.vn/wp-content/uploads/2023/04/A%CC%89nh-ma%CC%80n-hi%CC%80nh-2023-04-27-lu%CC%81c-12.54.43.png)
-
-*Example:*
-
-Cô Linh trẻ nhất ở công ty Thăng Long.
-
-Bài 7 khó nhất trong sách tiếng Việt ABC.
-
-Anh Huy cao nhất ở trung tâm Hanoi academy
-
-Câu hỏi:
-
-Ai trẻ nhất trong công ty Thăng Long?
-
-Bài nào khó nhất trong sách tiếng Việt ABC?
-
-Ai cao nhất ở trung tâm Hanoi academy?
-
-Trả lời:
-
-Cô Linh trẻ nhất ở công ty Thăng Long.
-
-Bài 7 khó nhất trong sách tiếng Việt ABC.
-
-Anh Huy cao nhất ở trung tâm Hanoi academy.
-
-![](https://hanoilanguage.vn/wp-content/uploads/2023/04/A%CC%89nh-ma%CC%80n-hi%CC%80nh-2023-04-27-lu%CC%81c-13.00.35.png)
-
-"nhất" can go with special verbs, a kind of verb that show emotion and feeling
-
-such as: yêu (love), thích (like), ghét (hate), sợ (scare), ngán (fed up)....
-
-*Example:*
-
-A: Chị thích nhất món gi?
-
-B: Chị thích nhất món bún đậu mắm tôm. Còn em thích nhất món gì?
-
-A: Em sợ nhất là mắm tôm. Em thích nhất phở bò.
+Notice that **hơn** can also be used with verbs to mean "more." For example, **thích hơn** means "like more" or "prefer." The word **nhất** is very versatile—you can combine it with almost any quality to show it's at the top of its class. Listen for how people use **nhất** to give high praise (or strong criticism!).

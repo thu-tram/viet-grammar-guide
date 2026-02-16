@@ -1,130 +1,70 @@
-Equality 
-Structure 1
-Subject 1 + (verb) + adjective + bằng / như / y như / giống như / chẳng khác gì + subject 2
+# Lesson 22: Equality and difference
 
-Example:
+When comparing things, you often want to say they are the "same" or "different." In Vietnamese, these concepts center around a few key words: **giống**, **khác**, and **như**.
 
-Vietnamese
+### Being the Same (**giống**)
 
-English
+To say two things are similar or identical, use **giống**. You can also use **giống nhau** when referring to a group of things.
 
-John cao bằng anh trai cậu ấy.
+<pre>
+Hai cái này <b>giống nhau</b>.
+“These two are <b>the same</b>.”
+</pre>
 
-John is as tall as his brother.
+<pre>
+Tôi <b>giống</b> bố tôi.
+“I am <b>like</b> my father.”
+</pre>
 
-Mike vẽ đẹp như họa sĩ.
+### Being Different (**khác**)
 
-Mike draws as beautifully as a painter.
+To say things are different, use **khác**. Likewise, **khác nhau** means "different from each other."
 
-Em gái tôi nấu ăn ngon y như mẹ tôi.
+<pre>
+Màu này <b>khác</b> màu kia.
+“This color is <b>different (from)</b> that color.”
+</pre>
 
-My younger sister cooks as well as my mother.
+### Like / As (**như**)
 
-Xe này chạy nhanh chẳng khác gì xe đua.
+The word **như** is often used for comparisons of manner or likeness, similar to "like" or "as" in English.
 
-This car runs as fast as a race car.
+<pre>
+Đẹp <b>như</b> tranh.
+“Beautiful <b>as</b> a painting.”
+</pre>
 
- 
+### The "Same" as in "Equal": **cùng**
 
-Structure 2
-Noun 1 + như / y như / giống như / trông như / chẳng khác gì + noun 2
+If you want to say you share the same thing (like the same room or the same idea), you use **cùng**.
 
-Example:
+<pre>
+Chúng tôi <b>cùng</b> một lớp.
+“We are in the <b>same</b> class.”
+</pre>
 
-Vietnamese
+### Examples
 
-English
+<pre>
+Hai chị em nhìn <b>giống nhau</b> quá!
+“The two sisters look so <b>much alike</b>!”
+</pre>
 
-Tôi như kẻ khờ.
+<pre>
+Mỗi người có một ý kiến <b>khác</b>.
+“Each person has a <b>different</b> opinion.”
+</pre>
 
-I’m like a fool.
+<pre>
+Làm <b>như</b> vậy đi.
+“Do it <b>like</b> that.”
+</pre>
 
-Anh ta giống như người vô gia cư vậy.
+<pre>
+Họ sống <b>cùng</b> một nhà.
+“They live in the <b>same</b> house.”
+</pre>
 
-He looks like a homeless man.
+### Note on nuance
 
-Elena trông như một nàng công chúa.
-
-Elena looks like a princess.
-
-Cô ấy chẳng khác gì nhiếp ảnh chuyên nghiệp.
-
-She’s like a professional photographer.
-
- 
-
-Comparative
-Structure 1
-Subject 1 + (verb) + adjective + hơn + subject 2
-
-Example:
-
-Vietnamese
-
-English
-
-Ngôi nhà này cao hơn ngôi nhà kia.
-
-This house is higher than that house.
-
-Sam can đảm hơn Mark.
-
-Sam is braver than Mark.
-
-Mùa đông năm nay lạnh hơn mùa đông năm ngoái.
-
-This winter is colder than last one.
-
- 
-
-Structure 2
-Subject 1 + (verb) + adjective + gấp ~ lần + subject 2
-
-Example:
-
-Vietnamese
-
-English
-
-Chiếc váy này đắt gấp đôi chiếc váy tôi mua hôm qua.
-
-This dress is twice as expensive as the one I bought yesterday.
-
-Nhà của bạn to gấp ba lần nhà tôi.
-
-Your house is three times bigger than mine.
-
-Cô ấy đánh máy nhanh gấp đôi tôi.
-
-She types twice as fast as I do.
-
- 
-
-Structure 3
-Subject 1 + không + (verb) + adjective + bằng / như + subject 2
-
-Or: Subject 1 + (verb) + không + adjective + bằng / như + subject 2
-
-Example:
-
-Vietnamese
-
-English
-
-Thi giữa kì không khó như thi cuối kì.
-
-Midterm exams are not as difficult as final ones.
-
-Quyển tiểu thuyết này không thú vị bằng quyển tôi đọc trước đó.
-
-This novel is not as interesting as the one I read before.
-
-Rose chạy không nhanh bằng Nick.
-
-Rose doesn’t run as fast as Nick.
-
- 
-
-To sum up, we simply just add comparative words before or after adjectives and adverbs to make comparisons in Vietnamese. Practice these structures everyday and you will see that the grammar starts to make sense. Hope this helps!
-
-https://learnvietnamese.com.vn/en/comparison-in-vietnamese.html
+While **bằng** (from the previous lesson) is used for specific qualities like "as tall as," **giống** is used for overall similarity. You’ll often hear **giống hệt** (identical) or **khác hẳn** (completely different) for more emphasis. Pay attention to how **khác** is also used to mean "another" or "else," like in **người khác** (someone else/another person).

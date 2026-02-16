@@ -1,79 +1,61 @@
 # Lesson 31: Linking clauses with “và”, “nhưng”, “hoặc”
 
+To build longer sentences, we need connectors (conjunctions) to link our ideas together. The most basic ones are **và**, **nhưng**, and **hoặc**.
 
- ### Conjunctions
+### And (**và**)
 
-Now that we're aware of most of the basic sentential constructs in Vietnamese, it seems appropriate to learn about conjunctions so that we can connect simple sentences into more complex ones.
+Use **và** to join two similar things or two actions. Note that in very casual speech, Vietnamese speakers often just list things with a pause and omit **và**.
 
-Let's begin with *and*, which connects ideas that support each other, and *but*, which contrasts opposite ideas. The equivalent of *and* and *but* in Vietnamese are *và* and *nhưng*, respectively. Let illustrate their usage with the following two examples.
+<pre>
+Tôi thích trà <b>và</b> cà phê.
+“I like tea <b>and</b> coffee.”
+</pre>
 
-Examples of *and* and *but*
+### But (**nhưng**)
 
-| I like | this color | and | that color |
-| Tôi thích | màu này | và | màu kia |
-|\
- |
-| This method | is | simple | but | effective |
-| Phương pháp này |\
- | đơn giản | nhưng | hiệu quả |
+Use **nhưng** to show a contrast or a change in direction.
 
-We can observe in these two examples that *và*("and") and *nhưng*("but") are used exactly in the place of their English counterparts. In the first example, *and* is used to connect two nouns while *but* is used in the second example to connect two adjectives. Let's look at an example where we use *and* to connect two simple sentences:
+<pre>
+Tôi muốn đi <b>nhưng</b> tôi bận.
+“I want to go, <b>but</b> I'm busy.”
+</pre>
 
-Connecting simple sentences
+### Or: Statements (**hoặc**) vs. Questions (**hay**)
 
-| His idea is great | and | I really like it |
-| Ý tưởng của anh ta hay | và | tôi thực sự thích nó |
+Vietnamese has two words for "or." Use **hoặc** when you are making a statement, and **hay** when you are asking a question.
 
-Here, the Vietnamese usage of *và*("and") is, again, totally similar to the English usage of *and*.
+<pre>
+Bạn có thể đi xe buýt <b>hoặc</b> taxi. (Statement)
+“You can go by bus <b>or</b> taxi.”
+</pre>
 
-There is another frequently used conjunction: *or*, whose Vietnamese equivalent is *hay*, which share a very similar usage to *or*.
+<pre>
+Bạn uống trà <b>hay</b> cà phê? (Question)
+“Do you drink tea <b>or</b> coffee?”
+</pre>
 
-The related construct *either*...*or* is expressed by the single word *hoặc*.
+### Examples
 
-Below are a couple of examples to illustrate *hay* and *hoặc*.
+<pre>
+Anh ấy cao <b>và</b> gầy.
+“He is tall <b>and</b> thin.”
+</pre>
 
-Example usages of *hay* and *hoặc*
+<pre>
+Phim hay <b>nhưng</b> hơi dài.
+“The movie is good <b>but</b> a bit long.”
+</pre>
 
-| Do you | like | this color | or | that color | ? |
-| Anh | thích | màu này | hay | màu kia | ? |
-|\
- |
-| Please | do | either | this question | or | that question |
-| Xin vui lòng | làm |\
- | câu hỏi này | hoặc | câu hỏi kia |
+<pre>
+Tôi sẽ gọi điện <b>hoặc</b> nhắn tin cho bạn.
+“I will call <b>or</b> text you.”
+</pre>
 
-To conclude what we've just learned about Vietnamese conjunctions
+<pre>
+Ăn ở nhà <b>hay</b> ăn ở ngoài?
+“Eat at home <b>or</b> eat out?”
+</pre>
 
-#### Vietnamese Conjunctions
+### Note on nuance
 
-Use *và*("and"), *nhưng*("but"), *hay*("or"), *hoặc* ("either...or")\
-the way you use them in English.
-
-### **Coordinating conjunctions**
-
-You can refer to the table of some commonly used coordinating conjunctions below:
-
-| **Coordinating conjunctions** | **Example** |
-| **Và** (And): is used as a function word to indicate a connection or additional. |
-
--   Tôi có một chú chó **và** tôi rất yêu nó (I have a dog **and** I love him)
--   Chị ấy có 3 con chó **và** 2 con mèo (She has 3 dogs **and** 2 cats)
-
- |
-| **Hoặc, Hay** (Or): used to express two or more options. |
-
--   Em muốn nấu ăn ở nhà **hay** ăn ngoài nhà hàng? (Do you want to cook at home **or** eat out at a restaurant?)
--   Em chỉ có thể chọn áo phông **hoặc** áo sơ mi (You can only choose a T-shirt **or** a shirt)
-
- |
-| **Nhưng** (But, Yet): used to connect 2 or more ideas but the ideas have different meanings. |
-
--   Tôi muốn mua ô tô mới **nhưng** tôi chưa có đủ tiền (I want to buy a new car **but** I don't have enough money)
--   Mina thích Toán nhưng cô ấy lại giỏi Tiếng Anh (Mina likes Math **yet** she is good at English).
-
- |
-| **Cũng không** (Nor): is used to add a negative idea to the previously stated negative. |
-
--   Chiếc bánh này không ngon **cũng không** đẹp mắt (This cake is neither delicious **nor** pretty)
-
- |
+The distinction between **hoặc** and **hay** is very common. Using **hay** in a question helps the listener know they need to make a choice. Another small tip: you will often see **nhưng mà** instead of just **nhưng**. They mean the same thing, but **nhưng mà** feels slightly more conversational.

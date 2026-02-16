@@ -1,70 +1,62 @@
 # Lesson 16: Completed vs ongoing actions
 
-## Completed
+Building on the last lesson, Vietnamese makes a very clear distinction between whether an action is a work-in-progress or a finished result.
 
-VIETNAMESE PAST SIMPLE TENSE
-----------------------------
+### Completion with **xong**
 
-Unlike English, there are not any specific verb conjugations to indicate tenses in Vietnamese.
+While **rồi** means "already," the word **xong** specifically means "finished" or "done." Placing **xong** after a verb is the best way to show that a task is complete.
 
-Instead, there are time adverbs to indicate when the action is occurring. 
+<pre>
+Tôi ăn <b>xong</b> rồi.
+“I am <b>finished</b> eating already.”
+</pre>
 
-Today, we'll learn a few adverbs and two markers "đã"and "rồi" to express past actions in Vietnamese.
+Compare this to:
 
-![](https://flexiclasses.com/wp-content/plugins/ltl-grammar-bank/assets/images/lex-grammar-default.png)
+<pre>
+Tôi <b>đang</b> ăn.
+“I <b>am</b> eating (right now).”
+</pre>
 
-AFFIRMATIVE -- PAST SIMPLE
--------------------------
+### The "Still" Action: **vẫn** and **vẫn đang**
 
-In order to indicate that an action occurred in the past, **"đã"** or **"rồi"** (both mean as "done") are used with the verb as following below pattern: 
+If you want to emphasize that something is _still_ happening and hasn't finished yet, use **vẫn** or **vẫn đang** before the verb.
 
-###### PATTERN #1
+<pre>
+Trời <b>vẫn đang</b> mưa.
+“It is <b>still</b> raining.”
+</pre>
 
-**Subject + đã + verb + (past tense time adverb)**
+### Result vs. Process
 
-###### PATTERN #2
+Notice how Vietnamese often pairs words to be precise.
 
-**Subject  + verb + rồi (already) + (past tense time adverb)**
+- **Đang làm**: Doing it (process).
+- **Làm xong**: Finished doing it (result).
+- **Chưa làm xong**: Not finished yet (incomplete process).
 
-Here are few **common time adverbs** which are used to describe a past action:
+### Examples
 
-| Hôm qua | Yesterday |
-| Tuần trước | Last week |
-| Tháng trước | Last month |
-| Năm ngoái | Last year |
+<pre>
+Học <b>xong</b> chưa?
+“Finished studying yet?”
+</pre>
 
-*For example:*
+<pre>
+Em <b>đang</b> viết thư.
+“I’<b>m</b> writing a letter.”
+</pre>
 
-| Tôi **đã** đi học **hôm qua** | I **did **go to school **yesterday** |
-| Chị ấy **đã **đi du lịch Hàn Quốc** năm ngoái** | She **did** travel to Korea **last year** |
+<pre>
+Họ <b>vẫn</b> làm việc ở đó.
+“They <b>still</b> work there.”
+</pre>
 
-View More Examples:
+<pre>
+Đọc <b>xong</b> cuốn sách này rồi.
+“(I) have <b>finished</b> reading this book already.”
+</pre>
 
-|  |  |
-|  |  |
-|  |  |
+### Note on nuance
 
-NEGATIVE -- PAST SIMPLE TENSE
-----------------------------
-
-In past tense, you just need to add** "không"** (means "not") or **"chưa"** (means "not yet") before verb to make a negative sentence: 
-
-###### PATTERN #1
-
-**Subject + đã + không (not) +  Verb + (past time adverb)**
-
-###### PATTERN #2
-
-**Subject + chưa (not yet) +  Verb + (past time adverb)**
-
-> **NOTE ||** Review the [negative form in Vietnamese](https://flexiclasses.com/vietnamese-grammar-bank/vietnamese-negation/) here.
-
-| Tôi **đã không** đi học **hôm qua** | I **did not **go to school **yesterday** |
-| Chị ấy **chưa **đi du lịch Hàn Quốc** năm ngoái** | She **did not **travel to Korea **last year yet** |
-
-## Ongoing actions
-
-
-Reference: 
-
-- YourVietnamese: Đã (past/completed), đang (ongoing), rồi (completed/emphasis) → https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs  
+You'll see **xong** used for everything from finishing a meal to finishing a project. It’s a very satisfying word to use! When you say **đang**, you are inviting the listener into the moment. When you say **xong**, you are moving the conversation past that action. Pay attention to how often people check in with "Xong chưa?" (Done yet?) in daily life.

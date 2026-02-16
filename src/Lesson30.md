@@ -1,100 +1,56 @@
-INTENTIONS IN VIETNAMESE
-------------------------
+# Lesson 30: Wanting and intending (muốn, định)
 
-In Vietnamese, expressing intentions is essential for discussing plans, goals, and desires.
+To talk about your desires and plans for the future, you will mostly use the words **muốn** (want) and **định** (intend).
 
-Key expressions such as **định **(intend),** lên kế hoạch** (making plans), and **sẽ **(will) allow speakers to communicate their intentions with clarity and nuance.
+### Desires (**muốn**)
 
-![](https://flexiclasses.com/wp-content/plugins/ltl-grammar-bank/assets/images/lex-grammar-default.png)
+Use **muốn** when you have a wish or a desire to do something.
 
-EXPRESSING 'WILL' WITH SẼ
--------------------------
+<pre>
+Tôi <b>muốn</b> uống cà phê.
+“I <b>want</b> to drink coffee.”
+</pre>
 
-The word **"sẽ" **indicates a [future action](https://flexiclasses.com/vietnamese-grammar-bank/future-tense-in-vietnamese/) or intention. You can use it using the following structure:
+### Plans (**định**)
 
-###### PATTERN
+Use **định** when you have already thought about it and "plan" or "intend" to do it. It is stronger and more specific than just wanting.
 
-**Subject + sẽ + verb**
+<pre>
+Cuối tuần này tôi <b>định</b> về quê.
+“This weekend I <b>plan</b> to go back to my hometown.”
+</pre>
 
-*For example:*
+### Liking as Wanting (**thích**)
 
-| Tôi **sẽ** đi du lịch vào cuối tuần. | I **will** travel this weekend |
-| Ba tôi **sẽ** học tiếng Anh mỗi ngày. | My father **will** study English everyday |
-| Tôi **sẽ** mua sắm vào thứ Bảy này.  | I **will** go shopping on this Saturday |
+Sometimes Vietnamese speakers use **thích** (like) where English speakers might say "I want." It sounds a bit softer and more preference-based.
 
-View More Examples
+<pre>
+Bạn có <b>thích</b> đi xem phim không?
+“Would you <b>like</b> to go see a movie?”
+</pre>
 
-| Mẹ tôi **sẽ** tham gia buổi họp ngày mai | My mom **will** have a meeting tomorrow |
-| Tôi **sẽ** đi du học năm sau | I **will** study abroad next year |
-| Chồng tôi **sẽ** nghỉ việc tháng sau | My husband **will** resign next month |
+### Examples
 
-EXPRESSING 'INTEND' WITH ĐỊNH
------------------------------
+<pre>
+Em <b>muốn</b> mua cái áo này.
+“I <b>want</b> to buy this shirt.”
+</pre>
 
-The word **"định" **suggests a planned action or intention.
+<pre>
+Anh ấy <b>định</b> mua nhà mới.
+“He <b>intends</b> to buy a new house.”
+</pre>
 
-###### PATTERN
+<pre>
+Chúng tôi không <b>muốn</b> làm phiền bạn.
+“We don't <b>want</b> to bother you.”
+</pre>
 
-**Subject + định + verb**
+<pre>
+Hè này bạn <b>định</b> đi đâu?
+“Where do you <b>plan</b> to go this summer?”
+</pre>
 
-| Tôi **định** đi du lịch vào cuối tuần. | I **intend to** travel this weekend |
-| Ba tôi **định** kinh doanh | My father **intends ****to **open a business |
-| Tôi **định** đi công tác vào thứ Bảy này.  | I **intend** **to **have a company trip on this Saturday |
+### Note on nuance
 
-View More Examples
-
-| Mẹ tôi **định** tham gia buổi họp ngày mai | My mom **intends** **to **have a meeting tomorrow |
-| Tôi **định** đi du học năm sau | I **intend** **to **study abroad next year |
-| Chồng tôi **định** nghỉ việc tháng sau | My husband **intends** **to **resign next month |
-
-> **NOTE || **You can also replace **"định"** with **"có ý định"** which means "to have an intention to do something.
-
-###### PATTERN
-
-**Subject + có ý định + verb**
-
-| Tôi **có ý định** đi du lịch vào cuối tuần. | I **have an intention to** travel this weekend |
-| Ba tôi **có ý định** kinh doanh | My father **has an intention to **open a business |
-| Tôi **có ý định** đi công tác vào thứ Bảy này.  | I **have an intention to **have a company trip on this Saturday |
-
-View More Examples
-
-| Mẹ tôi **có ý định** tham gia buổi họp ngày mai | My mom **has an intention to **have a meeting tomorrow |
-| Tôi **có ý định** đi du học năm sau | I **have an intention to **study abroad next year |
-| Chồng tôi **có ý định** nghỉ việc tháng sau | My husband **has an intention to **resign next month |
-
-EXPRESSING 'PLAN TO' WITH DỰ ĐỊNH
----------------------------------
-
-**"Dự định" means "plan to"** and is used when a person or group has a clear plan or idea to accomplish something in the future.
-
-> It's similar to "intend to," but with a slightly stronger sense of having thought about or planned for the action.
-
-###### PATTERN
-
-**Subject + dự định + verb**
-
-| Tôi **dự định** đi du lịch vào cuối tuần. | I **plan to** travel this weekend |
-| Cô ấy **dự định** học tiếng Anh | She **plans to** study more English |
-| Chúng tôi **dự định** mở quán cà phê vào tháng tới.  | We **plan to** open a café next month. |
-
-View More Examples
-
-| Mẹ tôi **dự định** tham gia buổi họp ngày mai | My mom **plans to** have a meeting tomorrow |
-| Tôi **dự định** đi du học năm sau | I **plan to** study abroad next year |
-| Chồng tôi **dự định** nghỉ việc tháng sau | My husband **plans to** resign next month |
-
-'MAKING PLANS' WITH LÊN KẾ HOẠCH
---------------------------------
-
-"Lên kế hoạch" means "make plans to" or "plan to," and it is often used **to emphasize on preparation** for projects, events, or detailed personal plans. 
-
-###### PATTERN
-
-**Subject + lên kế hoạch + verb**
-
-| Tôi đang **lên kế hoạch** đi du lịch vào cuối tuần. | I am **planning to** travel this weekend |
-| Cô ấy đang **lên kế hoạch** học tiếng Anh | She is **planning to** study more English |
-| Chúng tôi đang **lên kế hoạch** mở quán cà phê vào tháng tới.  | We are **planning to** open a café next month. |
-
-https://flexiclasses.com/vietnamese-grammar-bank/intentions-in-vietnamese/
+The difference between **muốn** and **định** is the difference between a feeling and an action plan. You can **muốn** many things that you never actually **định** to do! One other word to look out for is **thèm**, which is a very strong "want" specifically for food cravings. For now, stick with **muốn** for general wishes and **định** for your upcoming schedule.

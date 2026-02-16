@@ -1,69 +1,74 @@
 # Lesson 13: Sentence-final particles (à, hả, nhé, nhỉ, ạ, etc.)
 
+Vietnamese is famous for its "flavor words"—small particles at the end of a sentence that don't change the basic meaning but add a specific mood, emotion, or level of politeness. These are called sentence-final particles.
 
-After reading a few language books about vietnamese, the first thing I recognized is the conversations in those books are all so weird. Vietnamese is a spoken and tonal language, therefore there's a major differences between what we write and what we speak. The most noticable thing to transform a phrase from writen to a system of words for oral communication I believe is the present of **"tình thái từ"** and **"thán từ"** -- (final) particles.\
-**"Thán từ"** (interjection) is used to express emotions (a, ái, ơ, ôi, ô hay, trời ơi, ...) or for interaction (này , ơi , vâng , dạ ,..).
+### Adding Politeness with **ạ**
 
--   Those **"a", "á", "ơ", "ôi", "ô**" are similar to "oh" or "oops"
+The word **ạ** is used at the very end of a sentence when speaking to someone older or in a position of respect. It doesn't mean anything on its own; it just shows you are being polite.
 
--   **"Trời ơi"** or **"ôi trời ơi**" simply mean "oh my god"
+<pre>
+Chào cô ạ.
+“Hello (ma'am).”
+</pre>
 
--   **"này"** and** "ơi"** both mean "hey" in English, although there is a slightly diffence:
--   **"Này"** is a "hey" in casual and low key converstions or used to talk with someone in the same social status with you (friend-friend). This will be disrespect if you call a senior like that. Eg: này bạn (bạn này), này cậu (cậu này),...
+### Asking for Agreement with **nhé**
 
--   **"Ơi"** in the other hand is a "hey" but you can call use it to call pretty much everyone. Eg: ông ơi, bà ơi, bố ơi, mẹ ơi,...
+If you want to suggest something or make sure the other person is okay with a plan, use **nhé**. It's like saying "okay?" or "shall we?"
 
-"**Tình thái từ"**: words added in sentece to turn it into question, request or display emotions of speaker. There are 4 types.
+<pre>
+Chúng ta đi nhé?
+“Shall we go?”
+</pre>
 
--   Questionare: **à, ư, hả, hử, chứ, chăng, nhỉ, cơ, nhé,...**
+### Expressing Surprise or Realization with **à**
 
-Eg:  Anh Tuấn uống cà phê  (Tuấn drinks coffee) -> Anh Tuấn uống cà phê à/hả? ( Are you drinking coffee, Tuấn?)\
-Anh Tuấn uống cà phê chứ/ nhé? (notice with "nhé" & "chứ" added, it sounds more like a suggetion: Tuấn, do you like to drink coffee?)
+When you just realized something or want to confirm a fact with a bit of a "Oh, I see" feeling, use **à**.
 
--   Order/request: **đi, nào, với, đi thôi, nhé,...**
+<pre>
+Anh là người Mỹ à?
+“Oh, so you are American?”
+</pre>
 
-Eg: Anh Tuấn uống cà phê  -> Anh Tuấn uống cà phê đi/nhé! (Tuan, let's drink coffee!)
+### Casual Questions with **hả**
 
--   Exclamation: **thay, sao, thật, quá, lắm...**
+This is a very common, informal way to turn a statement into a question, similar to "huh?" or "right?"
 
-Eg: Cô ấy xinh (She's pretty) -> Cô ấy xinh lắm/quá! (She's pretty!)
+<pre>
+Đẹp hả?
+“It's beautiful, right? / Really?”
+</pre>
 
--   Emotional expression (or politeness?): ạ, nhé, cơ, mà, dạ, vâng,...
+### Thinking Out Loud with **nhỉ**
 
--   **"Dạ", "ạ", "vâng"** are formal and very polite words, used to speak to seniors or people with higher social status than you.
+When you are making a comment about something and inviting the other person to agree, or just musing to yourself, use **nhỉ**.
 
--   Add **"ạ"** in the end of a sentence/answer to display an extreme respect. Eg: Con ăn cơm ạ!
+<pre>
+Hôm nay trời đẹp nhỉ?
+“It's a beautiful day, isn't it?”
+</pre>
 
--   **"Dạ"** and "vâng" mean "yes" in an extreme respect, usually added at the beginning of an answer. Eg: Dạ, con về rồi!\
-*Note:* **"nhé"** is a convenience word which can be used in almost everywhere and very very often. It normally appears at the end of  a sentence, depends on your tone so that can be an answer, a question, a suggestion, etc.
+### Examples
 
+<pre>
+Con cảm ơn mẹ ạ.
+“Thank you, Mom.”
+</pre>
 
-Ending particle: ...+ nhỉ/ha
-==========================
+<pre>
+Ăn cơm nhé!
+“Let's eat!”
+</pre>
 
-**Learn Vietnamese online: ...+ nhỉ/ha**
+<pre>
+Em chưa biết à?
+“You don't know yet? (Oh!)”
+</pre>
 
-**Nhỉ/ ha are ending particles, used after a spoken word to express judgment:**
+<pre>
+Nóng quá nhỉ?
+“It's so hot, don't you think?”
+</pre>
 
--- Đẹp nhỉ! (beautiful, isn't it?)\
--- Vui quá ha! (fun, isn't it?)\
--- Chán nhỉ!(boring, isn't it?)
+### Note on nuance
 
-**or indicate intimacy, gentle in the question:**
-
--- Anh ấy có đến không nhỉ? (Will he come?)\
--- Em có điện thoại không ha? (Do you have a phone?)
-
-**Note:**
-
-1\. NHỈ is used by Nothern people and HA is used by southern people.\
-2\. Southern people also use HEN/HENG instead of HA.\
-Cái váy này đẹp hen? (This dress is nice, isn't it?)\
-Mua cái này heng?(How about buying this dress?)
-
-Reference:
-
-- Tumblr (Obsessed with Languages): Types (question: à/hả/nhỉ/chứ; suggestion: nhé; politeness: ạ/dạ) → https://language-obsession.tumblr.com/post/121148041944/particles-in-vietnamese
-
-- Duolinguists: Adding à/(phải) không or rising tone → https://duolinguists.wordpress.com/2022/03/15/vietnamese-question-structure  
-- VLStudies: Nhỉ/ha for judgment/exclamation → https://vlstudies.wordpress.com/2018/04/24/ending-particle-nhi-ha  
+These particles are the "secret sauce" of natural Vietnamese. You don't need to master all of them at once. Just start noticing how they change the "music" of the conversation. **Ạ** is always safe to use for politeness, while **nhé** is great for being friendly. The best way to learn these is to listen to the tone of voice people use when they say them.

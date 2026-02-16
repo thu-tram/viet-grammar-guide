@@ -1,82 +1,51 @@
 # Lesson 33: Result and consequence (nên, cho nên, thành ra)
 
+Following up on the "reason" words, we also have words that focus specifically on the **result** or the **consequence**.
 
-### Vì thế / Do đó / Bởi vậy... - Therefore / So (For that reason)
+### So (**nên / cho nên**)
 
-Vì thế / Do đó / Bởi vậy / Vì vậy  /Vì lẽ đó / Vì thế cho nên -- Therefore / So (For that reason)
+**Nên** is the most common way to say "so." **Cho nên** is just a slightly longer, more formal version that adds a bit more weight to the result.
 
-**1/ Tôi thức dậy muộn, vì thế, tôi đã lỡ chuyến xe lửa / Tôi thức dậy muộn, do đó, tôi đã lỡ chuyến xe lửa**
+<pre>
+Tôi bận <b>nên</b> không đi được.
+“I'm busy, <b>so</b> I can't go.”
+</pre>
 
-I woke up late so I missed the train
+### The Unexpected Result (**thành ra**)
 
-Lỡ - To miss
+The phrase **thành ra** is used when a result happens that you might not have planned or expected. It’s like saying "consequently," "and so it turned out that..." or "ended up."
 
-Thức dậy -- To wake up
+<pre>
+Trễ xe buýt <b>thành ra</b> tôi phải đi bộ.
+“(I) missed the bus, <b>consequently</b> I had to walk.”
+</pre>
 
-Muộn / Trễ - Late
+### The Logic Flow
 
-**2/ Đầu gối của tôi bắt đầu đau, do đó, tôi đã ngưng chạy / Đầu gối của tôi bắt đầu đau, vì vậy, tôi đã ngưng chạy**
+In Vietnamese, results are almost always clearly marked. While English might just use a comma, Vietnamese prefers to signaling the "therefore" moment with one of these words.
 
-My knee started hurting so I stopped running.
+### Examples
 
-Đầu gối -- Knee
+<pre>
+Anh ấy học rất giỏi <b>cho nên</b> được học bổng.
+“He studied very well, <b>and so</b> he got a scholarship.”
+</pre>
 
-Đau -- Hurt
+<pre>
+Quên mang ô <b>thành ra</b> bị ướt hết.
+“(I) forgot an umbrella, <b>so it turned out</b> (I) got all wet.”
+</pre>
 
-Chạy -- Run
+<pre>
+Tôi thích ăn cay <b>nên</b> cho thêm nhiều ớt.
+“I like eating spicy food, <b>so</b> I added more chili.”
+</pre>
 
-**3/ Đôi giày ống mới này nhẹ và mềm hơn, vì thế, mang dễ chịu hơn**
+<pre>
+Mọi người đều đồng ý <b>thành ra</b> việc này rất dễ.
+“Everyone agreed, <b>consequently</b> this matter was very easy.”
+</pre>
 
-The new boots are lighter and softer, and therefore more comfortable to wear
+### Note on nuance
 
-Giày ống -- Boot
-
-Nhẹ - To be light
-
-Mềm -- To be soft
-
-Dễ chịu / Thoải mái -- To be comfortable
-
-Mang -- To wear
-
-**4/ Họ đã nghe được cảnh báo trên radio, vì thế, họ đã đi bằng tuyến đường khác**
-
-They heard the warning on the radio and therefore took another route
-
-Cảnh báo -- Warning
-
-Tuyến đường -- Route
-
-**5/ Nó vẫn còn đau, do vậy, tôi đã đi gặp bác sĩ chuyên khoa**
-
-It was still painful so I went to see a specialist'
-
-Đau -- To be painful
-
-Bác sĩ chuyên khoa -- Specialist
-
-**6/ Anh ấy bị thương, vì thế, không thể chơi được**
-
-He was injured and therefore unable to play
-
-Bị thương -- To be injured
-
-Chơi -- To play
-
-**7/ Ngày mai tôi phải dậy sớm, vì thế, bây giờ tôi phải đi ngủ**
-
-I have to wake up early tomorrow and therefore I must go to bed now
-
-Dậy sớm / Thức dậy sớm -- To wake up early
-
-Đi ngủ - Go to bed
-
-**8/ Tôi bị lạc đường, vì thế, tôi đã mua một bản đồ**
-
-I was lost so I bought a map.
-
-Bị lạc / Bị lạc đường -- To be lost
-
-Mua -- To buy
-
-Bản đồ - Map
+**Thành ra** often carries a slightly resigned or casual tone. It's very common when recounting a story about how things went wrong or changed unexpectedly. **Nên** and **cho nên** are your reliable workhorses for everyday logic. Listening for these markers will help you map out the "cause and effect" in any Vietnamese conversation.

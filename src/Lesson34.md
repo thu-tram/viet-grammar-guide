@@ -1,91 +1,56 @@
 # Lesson 34: Condition with “nếu”
 
+To talk about things that _might_ happen, Vietnamese uses the word **nếu** (if). Just like the "Because... so..." pattern, Vietnamese has a very common "If... then..." pattern.
 
-USING NẾU / NẾU NHƯ
--------------------
+### The "If... Then..." Pattern (**Nếu ... thì ...**)
 
-Conditional Sentences: "Nếu... thì..."
-==================================
+In Vietnamese, if you start a sentence with **nếu**, you almost always use **thì** to introduce the result. Even though English often drops the "then," Vietnamese keeps it to make the logic clear.
 
-Conditional sentences, also known as "if...then" sentences, are an important aspect of the Vietnamese language. These sentences are used to describe a hypothetical situation and its potential outcome. In Vietnamese, conditional sentences can be formed using the words "nếu" (if) and "thì" (then).
+<pre>
+<b>Nếu</b> ngày mai mưa <b>thì</b> tôi ở nhà.
+“<b>If</b> it rains tomorrow, <b>(then)</b> I’ll stay home.”
+</pre>
 
-**1\. Grammar note & example:**
+### Hypothetical "If" (**nếu như**)
 
-![](https://hanoilanguage.vn/wp-content/uploads/2023/04/Ảnh-màn-hình-2023-04-26-lúc-17.20.08.png)
+If you want to emphasize that something is a "what if" scenario or a bit more hypothetical, you can use **nếu như**.
 
-***Example:***
+<pre>
+<b>Nếu như</b> tôi là bạn, tôi sẽ không làm thế.
+“<b>If</b> I were you, I wouldn't do that.”
+</pre>
 
-![](https://hanoilanguage.vn/wp-content/uploads/2023/04/Ảnh-màn-hình-2023-04-26-lúc-17.29.55.png)
+### Omitting "Nếu"
 
--   **Note:** if the clauses A and B have the same subject, the subject of the first clause can be ommitted
+In casual speech, Vietnamese speakers sometimes drop **nếu** and just use **thì** to show the condition. The context makes the "if" part obvious.
 
-***Example:***\
-Nếu tôi khỏe thì tôi sẽ đi học.\
-→ Nếu khỏe thi tôi sẽ đi học.\
-Nếu tôi không bận thì tôi sẽ thăm anh.\
-→ Nếu không bận thì tôi sẽ đến thăm anh.
+<pre>
+Thích <b>thì</b> mua đi!
+“(If you) like (it), <b>then</b> buy (it)!”
+</pre>
 
-To express if in Vietnamese you'll need to use the words **Nếu** or **Nếu như**.
+### Examples
 
-Follow this structure to form sentences with these words:
+<pre>
+<b>Nếu</b> có thời gian <b>thì</b> mình đi cà phê nhé?
+“<b>If</b> (we) have time, <b>then</b> let's go for coffee, okay?”
+</pre>
 
-###### PATTERN
+<pre>
+<b>Nếu</b> bạn cần giúp đỡ <b>thì</b> cứ gọi tôi.
+“<b>If</b> you need help, <b>then</b> just call me.”
+</pre>
 
-**Nếu/ Nếu như + Clause 1, Clause 2**
+<pre>
+<b>Nếu như</b> không có anh, em không biết làm sao.
+“<b>If</b> it weren't for you, I wouldn't know what to do.”
+</pre>
 
-| **Nếu** như anh đi học, anh nhớ mang theo dù | **If** you go to school, remember to bring an umbrella  |
-| **Nếu** anh bận chạy deadline, em sẽ làm việc nhà cho anh | **If** you are busy doing the deadlines, I will do the household chores for you |
+<pre>
+Đắt quá <b>thì</b> không mua.
+“(If it's) too expensive, <b>then</b> (I) won't buy (it).”
+</pre>
 
-View More Examples:
+### Note on nuance
 
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-
-USING NẾU / NẾU NHƯ IN THE COMMAND FORM
----------------------------------------
-
-You can also place **Nếu / Nếu như** at the middle of sentence when you want **to command someone**.
-
-###### PATTERN
-
-****Clause 1, nếu/nếu như + Clause 2****
-
-| Đi theo anh, **nếu** em thích | Follow me, **if** you like! |
-| Làm việc đi, **nếu** muốn có tiền | Go to work, **if** you want money! |
-
-View More Examples:
-
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-
-IF NOT WITH NẾU KHÔNG
----------------------
-
-To turn it into the negative form, do not add any subjects following "Nếu không". This is how you can use If not in Vietnamese: 
-
-###### PATTERN
-
-****Nếu không  + Verb, Clause****
-
-| **Nếu không** thích, anh cứ về | **If (you) not** like it, just leave  |
-| **Nếu không** ăn sáng, anh bị đau bụng | **If (I) not** eat breakfast, I have a stomachache |
+The word **thì** is incredibly common and versatile. While it means "then" in an "if" sentence, it can also act as a topic marker (like "as for..."). For now, just focus on the **Nếu ... thì ...** pair. It’s like a set of bookends that holds your conditional thoughts together.

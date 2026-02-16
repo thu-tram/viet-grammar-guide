@@ -1,81 +1,60 @@
 # Lesson 32: Cause and reason (vì, tại, do)
 
-HOW TO SAY BECAUSE IN VIETNAMESE
---------------------------------
+When explaining _why_ something happened, Vietnamese uses **vì**, **tại**, and **do**. These words help you link a cause to its effect.
 
-This is one of the easiest Vietnamese grammars. Let's go through this lesson in a few minutes with us and learn how to express "because" in Vietnamese. 
+### Because (**vì**)
 
-"Vì" / "Do" / "Bởi vì" are expressions that mean "because" in Vietnamese. 
+This is the most common, neutral word for "because." It is almost always paired with **nên** (so) in the second half of the sentence.
 
-![](https://flexiclasses.com/wp-content/plugins/ltl-grammar-bank/assets/images/lex-grammar-default.png)
+<pre>
+<b>Vì</b> trời mưa <b>nên</b> tôi ở nhà.
+“<b>Because</b> it rained, <b>(so)</b> I stayed home.”
+</pre>
 
-BECAUSE WITH NOUNS / PRONOUNS
------------------------------
+### Blaming or Negative Reason (**tại**)
 
-You add NOUN behind "vì" / "do"/ "bởi vì" to indicate a cause or a reason. 
+Use **tại** when the reason is a mistake or something negative. It’s like saying "it's because of... (and it's bad)."
 
-*Note: Please double-check [Vietnamese personal pronouns](https://flexiclasses.com/vietnamese-grammar-bank/how-to-use-pronouns-in-vietnamese/) here! *
+<pre>
+<b>Tại</b> anh <b>nên</b> chúng ta bị muộn!
+“<b>Because of</b> you, we are late!”
+</pre>
 
-###### PATTERN
+### Formal or Neutral Cause (**do**)
 
-**Vì / Do/ Bởi vì + Noun / Personal pronouns**
+The word **do** is often used in more formal context or for neutral scientific/logical reasons.
 
-*For example:*
+<pre>
+Tai nạn <b>do</b> bất cẩn.
+“The accident was <b>due to</b> carelessness.”
+</pre>
 
-| **Vì** anh!  | **Because of** you!  |
-| **Do** em! | **Because of** you!  |
-| **Bởi vì** chị!  | **Because of** you!  |
+### The "Because... So..." Pattern
 
-View More Examples:
+It is very natural in Vietnamese to state both the cause and the result using the **Vì ... nên ...** structure. Even if English only uses one ("Because it rained, I stayed home"), Vietnamese likes to have both markers.
 
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
+### Examples
 
-BECAUSE WITH ADJECTIVES
------------------------
+<pre>
+<b>Vì</b> mệt <b>nên</b> em đi ngủ sớm.
+“<b>Because</b> (I'm) tired, <b>so</b> I'm going to sleep early.”
+</pre>
 
-You add ADJECTIVE behind "vì" / "do"/ "bởi vì" to indicate a cause or a reason. 
+<pre>
+<b>Tại</b> tắc đường <b>nên</b> tôi đến trễ.
+“<b>Because of</b> a traffic jam, <b>so</b> I arrived late.”
+</pre>
 
-###### PATTERN
+<pre>
+Mọi việc đều <b>do</b> bạn quyết định.
+“Everything is <b>due to (up to)</b> your decision.”
+</pre>
 
-****Vì / Do / Bởi vì + Adjective****
+<pre>
+<b>Vì</b> thích tiếng Việt <b>nên</b> tôi học mỗi ngày.
+“<b>Because</b> (I) like Vietnamese, <b>so</b> I study every day.”
+</pre>
 
-*For example:*
+### Note on nuance
 
-| Tôi ăn **vì đói ** | I eat **because** I am **hungry ** |
-| Tôi uống **vì khát ** | I drink **because** I am **thirsty**  |
-| Anh ấy đang run run **do lạnh ** | He is shivering **because it's cold ** |
-
-View More Examples:
-
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-
-BECAUSE WITH NÊN
-----------------
-
-In order to express "because...so..." (or so-called as cause-result relationship), you can use this sentence structure:  
-
-###### PATTERN
-
-******Vì / Do / Bởi vì + (cause) + nên (result) ******
-
-*For example:*
-
-| **Vì** tôi xinh đẹp **nên** anh ấy yêu tôi  | **Because** I am pretty, he loves me  |
-| **Vì** trời nóng **nên** tôi đổ mồ hôi  | **Because** the weather is hot, I sweat a lot  |
-| **Do** tôi dậy trễ **nên** tôi trễ chuyến bay  | **Because** I woke up late, I missed the flight  |
+Be careful with **tại**. If you use it with a person, it can sound like you are accusing them! If you want to be polite, stick with **vì**. As you listen to Vietnamese speakers, notice how they almost always follow a "why" sentence with **nên**. It creates a very clear logical flow that makes the language easy to follow.

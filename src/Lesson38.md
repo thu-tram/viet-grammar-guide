@@ -1,74 +1,63 @@
 # Lesson 38: Concurrence and simultaneity
 
+Sometimes you want to show that two things are happening at the exact same time. Vietnamese has a few ways to describe this "overlap."
 
-![](https://flexiclasses.com/wp-content/plugins/ltl-grammar-bank/assets/images/lex-grammar-default.png)
+### Doing two things at once (**vừa ... vừa ...**)
 
-VỪA...VỪA -- DO BOTH THINGS / WHILE
---------------------------------
+To say someone is doing two things simultaneously, use the pattern **vừa [Action A] vừa [Action B]**.
 
-To express **two actions done at the same time** by one person or one subject, you can use "vừa...vừa..." by following the pattern below: 
+<pre>
+Anh ấy <b>vừa đi vừa</b> hát.
+“He is <b>singing while walking</b>. (He <b>just walk just sing</b>.)”
+</pre>
 
-###### PATTERN
+This can also be used for two qualities:
 
-**Subject + vừa + action 1 + vừa + action 2**
+<pre>
+Món này <b>vừa ngon vừa</b> rẻ.
+“This dish is <b>both delicious and</b> cheap.”
+</pre>
 
-> **NOTE ||** Add "đang" after subject when you want to highlight "doing something":
->
-> **Subject + đang + vừa + action 1 + vừa + action 2**
+### While (**trong khi**)
 
-You can use "vừa...vừa..." to describe both: 
+Use **trong khi** to link two separate events that are happening at the same time.
 
-- Two short actions which are being happened at the moment (as a habit or something being done at present) 
+<pre>
+<b>Trong khi</b> tôi nấu cơm, anh ấy đọc báo.
+“<b>While</b> I cook rice, he reads the newspaper.”
+</pre>
 
-- Two long actions which are happened at same time but as a background of someone (such as occupation, family, relationship, etc)
+### Same time (**cùng lúc / cùng một lúc**)
 
-| Tôi **vừa** đi học **vừa** đi làm | I **both** study and work (Background) |
-| Tôi **vừa** ăn cơm **vừa** xem TV | I watch TV **when** I have rice (Habit)  |
-| Anh ấy **vừa** làm thầy giáo **vừa** làm nhân viên văn phòng  | He is **both** a teacher and an office worker (Background) |
+If you want to emphasize that two distinct events happen at the "same moment," use **cùng lúc**.
 
-View More Examples:
+<pre>
+Hai người nói <b>cùng lúc</b>.
+“Two people spoke <b>at the same time</b>.”
+</pre>
 
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
+### Examples
 
-KHI.... / ...KHI... -- WHEN
---------------------
+<pre>
+Em <b>vừa học vừa</b> nghe nhạc.
+“I am <b>studying and</b> listening to music (at the same time).”
+</pre>
 
-To express two actions **done at the same time by one or more than one person** or one subject, you can use **"khi"** by following this pattern below: 
+<pre>
+<b>Trong khi</b> chờ đợi, chúng ta uống trà nhé.
+“<b>While</b> waiting, let's drink some tea.”
+</pre>
 
-###### PATTERN #1
+<pre>
+Mưa <b>vừa to vừa</b> kéo dài.
+“The rain was <b>both heavy and</b> long-lasting.”
+</pre>
 
-****Subject +  action 1 + khi + subject + action 2****
+<pre>
+Đừng làm nhiều việc <b>cùng một lúc</b>.
+“Don't do many things <b>at the same time</b>.”
+</pre>
 
-###### PATTERN #2
+### Note on nuance
 
-******Khi + subject +  action 1, subject + action 2******
-
-> **NOTE ||** You can add "đang" after subject when you want to highlight "doing something" 
->
-> **Subject +  đang + action 1 + khi + subject + đang + action 2**
->
-> or
->
-> **Khi + subject +  đang + action 1, subject + đang + action 2**
-
-> You can use "khi" only to describe two short actions which are happening at the same time or as a daily habit.
-
-*For example:*
-
-| **Khi** tôi đang chạy bộ, con chó sủa\
-Con chó sủa **khi** tôi chạy bộ | **When** I was running, the dog barked\
-The dog barks **when** I go running |
-| Tôi đi làm về **khi** mẹ tôi đang nấu ăn\
-**Khi** mẹ tôi nấu ăn, tôi đi làm về | I go home **when** mom is cooking\
-**When** mom cooks, I am home from work |
-| Trời mưa **khi** tôi đang học bài\
-**Khi** tôi đang học bài, trời mưa | It starts to rain **when** I am studying\
-**When** I am studying, it starts to rain |
+The **vừa ... vừa ...** pattern is very popular in daily speech. It’s a rhythmic way to describe a scene or a person. Pay attention to how it can also be used to show a sequence of two things happening quickly, like **vừa mới** (just happened). For now, use it to describe multitasking—one of the most common ways to show simultaneity!

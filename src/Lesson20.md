@@ -1,44 +1,49 @@
-https://hanoilanguage.vn/how-to-use-the-word-rat-qua-lam-in-vietnamese/
-# HOW TO USE THE WORD “RẤT, QUÁ, LẮM” IN VIETNAMESE
+# Lesson 20: Degree words (rất, khá, hơi, quá, lắm)
 
-“Rất, quá, lắm” are adverbs of degree, and often accompany adjectives, adverbs or modal verbs to indicate the highest degree of quality or quantity. They have the same meaning but differences in usage, all of them can be translated as “very” in English. 
+Degree words help you talk about the intensity of a quality—whether something is "very" hot, "a bit" expensive, or "too" far. In Vietnamese, some of these words go before the adjective, and some go after.
 
-*   Rất: precedes adjectives, adverbs, modal verbs, and is often used in written language or in a formal situation. For example:
+### Words that go BEFORE the adjective
 
-Example:
+- **rất** (very): The standard, neutral way to say very.
+  <pre>Rất đẹp. (Very beautiful.)</pre>
+- **hơi** (a bit / somewhat): Used for slight intensity.
+  <pre>Hơi đắt. (A bit expensive.)</pre>
+- **khá** (quite / pretty):
+  <pre>Khá tốt. (Quite good.)</pre>
 
-–  Anh nói tiếng Việt rất giỏi. (You speak Vietnamese very well.)
+### Words that go AFTER the adjective
 
-– Tôi rất thích uống cà phê. (I like to drink coffee very much.)
+- **lắm** (very / extremely): Much more casual and emphatic than _rất_.
+  <pre>Đẹp lắm! (Very beautiful!)</pre>
+- **quá** (too / so): Can mean "too much" or just "so much!"
+  <pre>Nóng quá. (Too hot / So hot!)</pre>
 
-*   Lắm: follows adjectives, adverbs or modal verbs, and is often used in spoken language
+### The "Too" vs. "Very" Distinction
 
-Example:
+While **quá** can mean "too," it is often used just to show excitement or strong feeling. If you want to be very clear that something is _excessively_ so, you might add **trời** or other markers, but usually, context does the work.
 
-– Anh nói tiếng Việt giỏi lắm.(You speak Vietnamese very well.)
+### Examples
 
-– Tôi thích uống cà phê lắm.( I like to drink coffee very much.)
+<pre>
+Món này <b>rất</b> ngon.
+“This dish is <b>very</b> delicious.”
+</pre>
 
-*   Quá: follows adjectives, adverbs or modal verbs, and is often used in spoken language to express an exclamatory.
+<pre>
+Hôm nay <b>hơi</b> lạnh nhỉ?
+“It's <b>a bit</b> cold today, isn't it?”
+</pre>
 
-Example:
+<pre>
+Cái này đắt <b>quá</b>!
+“This thing is <b>too</b> expensive!”
+</pre>
 
-– Ô! Anh nói tiếng Việt giỏi quá! (Oh! You speak Vietnamese so well! )
+<pre>
+Anh ấy hiền <b>lắm</b>.
+“He is <b>very</b> gentle/kind.”
+</pre>
 
-_Good luck with your Vietnamese learning. Leave a comment below if you have any questions!_
+### Note on nuance
 
-CỰC KỲ TO EXPRESS EXTREMELY
----------------------------
-
-In Vietnamese, in order to express "extremely", you can follow this pattern below: 
-
-###### PATTERN
-
-**Cực kỳ + adjective!**
-
-| **Cực kỳ **nóng!\
-→ Việt Nam **cực kỳ** nóng!  | **Extremely** hot!\
-→ Vietnam is **extremely** hot! |
-| **Cực kỳ** lạnh!\
-→ Mùa đông **cực kỳ** lạnh!  | **Extremely** cold\
-→ Winter is **extremely** cold!  |
+You will hear **lắm** and **quá** much more often in spoken Vietnamese because they feel more emotional and expressive. **Rất** can sometimes sound a bit like a textbook if used too much in casual conversation. A great way to sound more natural is to use **quá** at the end of your adjectives when you are genuinely impressed or bothered by something!

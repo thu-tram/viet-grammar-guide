@@ -1,158 +1,55 @@
 # Lesson 42: Quantifiers (mỗi, mọi, vài, nhiều)
 
+When you don't want to use a specific number, you can use **quantifiers** to talk about "each," "all," "some," or "many."
 
-QUANTIFIERS IN VIETNAMESE
--------------------------
+### Each and Every (**mỗi / mọi**)
 
-Quantifiers in Vietnamese help indicate the amount or quantity of something, whether it's "a few," "some," or "none at all."
+- **mỗi**: Used for "each" individual thing in a group.
+  <pre><b>Mỗi</b> ngày một ít. (<b>Each</b> day a little.)</pre>
+- **mọi**: Used for "all" or "every" members of a group collectively.
+  <pre><b>Mọi</b> người đều biết. (<b>Everyone</b> knows.)</pre>
 
-In this lesson, you'll learn how to use common quantifiers like **một ít**, **một vài**, **nhiều**, and **không có** accurately in everyday conversations.
+### A few / Some (**vài**)
 
-![](https://flexiclasses.com/wp-content/plugins/ltl-grammar-bank/assets/images/lex-grammar-default.png)
+Use **vài** for a small, unspecified number (usually between 2 and 9).
 
-MỘT SỐ... = A NUMBER OF...
-----------------------
+<pre>
+Tôi có <b>vài</b> người bạn.
+“I have <b>a few</b> friends.”
+</pre>
 
-It is used to refer to "**a number of**" or **"some"** when talking about a few or several things, usually when the exact number is not specified. 
+### Many and Few (**nhiều / ít**)
 
-###### PATTERN
+- **nhiều**: Many / Much.
+- **ít**: Few / Little.
 
-**Một số + noun**
+<pre>
+Ở đây có <b>nhiều</b> xe quá!
+“There are <b>many</b> vehicles here!”
+</pre>
 
-Examples: 
+### Examples
 
-| **Một số** nhà hàng sẽ đóng cửa vào cuối tuần | **A number of** restaurants will close on the weekend |
-| **Một số** người bạn của tôi đã lập gia đình | **A number** of my friends have gotten married. |
+<pre>
+<b>Mỗi</b> tháng tôi về quê một lần.
+“<b>Each</b> month I return home once.”
+</pre>
 
-View More Examples
+<pre>
+<b>Mọi</b> thứ đều ổn.
+“<b>Everything</b> is fine.”
+</pre>
 
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
+<pre>
+Chờ tôi <b>vài</b> phút nhé.
+“Wait for me <b>a few</b> minutes, okay?”
+</pre>
 
-MỘT VÀI... = A FEW / SEVERAL OF...
-------------------------------
+<pre>
+Anh ấy ăn rất <b>ít</b> cơm.
+“He eats very <b>little</b> rice.”
+</pre>
 
-It is used for a small number of items, similar to "a few" or "a several of" in English.
+### Note on nuance
 
-###### PATTERN
-
-****Một vài + noun****
-
-For examples: 
-
-| **Vietnamese** | **English** |
-| **Một vài** nhà hàng sẽ đóng cửa vào cuối tuần | **A few** restaurants will close on the weekend |
-| **Một vài** người bạn của tôi đã lập gia đình | **A few** of my friends have gotten married. |
-| **Một vài** bác sĩ không thích nói chuyện với bệnh nhân | **A few** doctors don't like talking to patients |
-| Tôi muốn nói chuyện với anh về **một vài** thứ | I want to talk to you about **a few things** |
-| **Một vài** điều anh còn giấu em là gì? | What are **a few** things you are still hiding from me? |
-| Tôi đã bán **một vài** căn nhà mất rồi | I've already sold **a few** houses |
-
-MỘT ÍT...= A LITTLE 
-------------------
-
-It is used to indicate a small quantity, similar to *"**a little***" or "***some***" in English.
-
-###### PATTERN
-
-******Một ít + noun******
-
-For example: 
-
-| Anh cho em **một ít** nước được không? | May I have a **little** water? |
-| **Một ít** quốc gia cho phép hôn nhân đồng tính | A **few** countries allow LGBT marriage |
-
-View More Examples
-
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-
-NHIỀU...= A LOT OF...
------------------
-
-It is used for emphasizing "***a lot of***" or "***so many***" in both countable and uncountable contexts.
-
-###### PATTERN
-
-********rất nhiều + noun********
-
-| Tôi có **nhiều** tiền | I have **a lot of** money. |
-| Tôi có **nhiều** bạn trai | I have **a lot of** boyfriends. |
-
-View More Examples
-
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-
-RẤT NHIỀU / CẢ ĐỐNG...= PLENTY OF/ MUCH OF / MANY OF...
----------------------------------------------------
-
-It is used for emphasizing a large amount or quantity of something in both countable and uncountable contexts.
-
-###### PATTERN
-
-**********rất nhiều / cả đống + noun**********
-
-| Tôi có **rất** **nhiều** tiền | I have **plenty of** money. |
-| Tôi có **rất** **nhiều** bạn trai | I have **plenty of** boyfriends. |
-
-View More Examples
-
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-|\
- |\
- |
-
-KHÔNG CÓ...NÀO= NONE OF... / NOT ANY...
----------------------------------
-
-It is used to refer to "***none of...***" in English by following this pattern: 
-
-###### PATTERN
-
-************Không có + noun + nào************
-
-**NOTE ||** Nothing = Không có gì; No one = Không có ai 
-
-**Example:** 
-
-| **Không có** học sinh **nào** đậu kỳ thi lần này | **None of** students passed this exam |
-| Tôi **không có** đồng **nào** trong túi | I have **none of** coins in my pocket |
+Notice that **nhiều** and **ít** can also act as adjectives ("A lot of rice" vs "The rice is a lot"). You’ll often hear **rất nhiều** to mean "very many" or "a lot." Use **mỗi** when you want to focus on individual items and **mọi** for the whole group. Congratulations—you’ve completed the guide! Keep immersing and these patterns will soon feel like second nature.

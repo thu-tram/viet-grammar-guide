@@ -1,46 +1,56 @@
-# Aspect markers: đã, đang, sẽ, rồi, từng
+# Lesson 15: Aspect markers: đã, đang, sẽ, rồi, từng
 
-**ELI5**
+Since Vietnamese verbs don't change their form, we use small words called **aspect markers** to show _when_ or _how_ an action happens. The most important thing to know is that these markers are often **optional** if the context is already clear.
 
-Đã = any tense with have, đang = any tense with be + -ing, sẽ = any tense with will
+### The Big Three
 
-It’s true that people don’t use these words all the time because not like English, these are not important and you can skip them unless you want to emphasize the time. For example I can say “hôm qua tôi ăn rồi” instead of “hôm qua tôi đã ăn rồi” because “hôm qua” indicates the past so you don’t need to use “đã” anymore. Of course it’s not wrong both ways but the first one sounds more natural
+- **đang** (Ongoing): Place this before the verb to show something is happening right now.
+  <pre>Tôi <b>đang</b> học. (I <b>am</b> studying.)</pre>
+- **đã** (Past): Place this before the verb for past actions.
+  <pre>Tôi <b>đã</b> ăn. (I <b>[past]</b> ate.)</pre>
+- **sẽ** (Future): Place this before the verb for future actions.
+  <pre>Tôi <b>sẽ</b> đi. (I <b>will</b> go.)</pre>
 
-In casual spoken Vietnamese, đã and sẽ are not used very often, except in some structures. Instead, tenses are implied based on the context.
+### Completion with **rồi**
 
-**ELI-5th grader:**
+Unlike the markers above, **rồi** goes at the **end** of the sentence. It means "already" and is used extremely often to show a change in state or a finished task.
 
-**Đã** is the perfective particle. Like the perfect tenses of English, it indicates the action of the verb is completed. It has nothing to do with the past (Vietnamese grammar in general doesn't care about time); it is only associated with the past because completed actions are usually in the past. There are also postverbal perfective adverbs (e.g. rồi) and inherently perfective verbs (e.g. xong) that make *đã* unnecessary, but *đã* can be used with these.
+<pre>
+Tôi ăn <b>rồi</b>.
+“I <b>already</b> ate.”
+</pre>
 
--   ❔Tối nay đi xem phim với tôi không bạn? (wanna watch the movie with me tonight?)
+### Experience with **từng**
 
--   ❌❌ À xin lỗi nha, hôm qua tôi xem phim đó (Oops, sorry, I watched that movie yesterday) => we understand what you mean, and we understand your effort to learn Vietnamese. But we do not use this sentence, so I consider it correct but not natural
+Use **từng** before a verb to talk about something you have done at least once in your life (similar to "ever" or "have once").
 
--   ✅ À xin lỗi nha, hôm qua tôi đã xem phim đó => more natural. As explained above, "đã" is not used often, so its appearance in this sentence draws the attention and becomes the emphasis of the apology
+<pre>
+Tôi <b>từng</b> đến Pháp.
+“I have <b>once</b> been to France.”
+</pre>
 
--   ✅✅ À xin lỗi nha, hôm qua tôi đã xem phim đó rồi => even better. "đã" and "rồi" are used to emphasize the time and the completeness respectively.
+### Examples
 
--   ✅✅✅ À xin lỗi nha, hôm qua tôi xem phim đó rồi => the best one in daily and informal convos. "rồi" indicates that the action is completed. We use this sentence the most, so it is the most natural
+<pre>
+Mẹ <b>đang</b> nấu cơm.
+“Mom <b>is</b> cooking.”
+</pre>
 
- Usually "rồi" (already) is used at the end of a sentence to indicate that you did something. or "chưa" if its a question: "con làm chưa?" (did you do it? - "dạ, con làm rồi" (yes, I did it))
+<pre>
+Anh ấy <b>sẽ</b> gọi lại sau.
+“He <b>will</b> call back later.”
+</pre>
 
-TLDR we do not use them often in every sentence, unlike tenses in English, especially if the time is mentioned. Only use them if you want to emphasize the time, the continuity or the completeness of the action. However, since it depends on the pretext, you should specific the pretext for an accurate answer and explanation
+<pre>
+Em làm xong <b>rồi</b>.
+“I’ve <b>already</b> finished.”
+</pre>
 
----
+<pre>
+Bạn <b>từng</b> ăn món này chưa?
+“Have you <b>ever</b> eaten this dish?”
+</pre>
 
-**Đang** is the progressive particle. Like the tenses that use auxiliary be, it indicates the action of the verb is ongoing. It has nothing to do with the present; in fact, you can express the past progressive (something ongoing in the past) with *đang* alone. It can be combined with *đã* or *sẽ* to form emphatic progressive expressions equivalent to "has been and will be".
+### Note on nuance
 
-đang is used often as the equivalent to the continuous tenses. "Con đang làm" (I'm doing it)
-
----
-
-**Sẽ** is the irrealis particle. It indicates the action of the verb hasn't taken place, which can be the future (like "will") or a hypothetical situation (like "would"). *Đã* and *sẽ* however can't be used together to form the future perfect (will have) or hypothetical perfect (would have): you either use *sẽ* with a perfective verb or postverbal adverb, or use *đã* alone and let the context indicate the irrealis aspect.
-
-Vietnamese doesnt really have tenses, so don't try to translate from English. My advice is, listen to how locals speak. Learn whole phrases or sentences.
-
-
-Reference:
-
-- YourVietnamese: Đã (past), đang (ongoing), sẽ (future), rồi (completed) → https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs  
-
-- Reddit: Đã/đang/sẽ differences explained → https://www.reddit.com/r/HocTiengviet/comments/1qn6lbl/can_someone_explain_the_difference_between_%C4%91%C3%A3
+In real conversations, Vietnamese speakers drop **đã** and **sẽ** much more often than English speakers drop "did" or "will." If you say "Yesterday I go," the "Yesterday" already does the work. **Đang** and **rồi**, however, are used very frequently because they add important information about the _flow_ of the action.
