@@ -1,61 +1,62 @@
 # Lesson 31: Linking clauses with “và”, “nhưng”, “hoặc”
 
-To build longer sentences, we need connectors (conjunctions) to link our ideas together. The most basic ones are **và**, **nhưng**, and **hoặc**.
+To build longer sentences, you need connectors to glue your ideas together. The most basic ones are **và**, **nhưng**, and **hoặc**.
 
-### And (**và**)
+### Cohesion with "và"
 
-Use **và** to join two similar things or two actions. Note that in very casual speech, Vietnamese speakers often just list things with a pause and omit **và**.
+Use **và** to join similar ideas or actions. Note that in casual speech, Vietnamese lists often drop **và** and just rely on a pause.
 
 <pre>
 Tôi thích trà <b>và</b> cà phê.
-“I like tea <b>and</b> coffee.”
+"I like tea <b>and</b> coffee."
 </pre>
 
-### But (**nhưng**)
+### Contrast with "nhưng"
 
-Use **nhưng** to show a contrast or a change in direction.
+Use **nhưng** (or **nhưng mà**) to pivot to an opposing thought.
 
 <pre>
 Tôi muốn đi <b>nhưng</b> tôi bận.
-“I want to go, <b>but</b> I'm busy.”
+"I want to go, <b>but</b> I'm busy."
 </pre>
 
-### Or: Statements (**hoặc**) vs. Questions (**hay**)
+### Categorizing "Or"
 
-Vietnamese has two words for "or." Use **hoặc** when you are making a statement, and **hay** when you are asking a question.
+Vietnamese splits "or" into two words:
+- **Hoặc**: Used in statements.
+- **Hay**: Used in questions (asking for a choice).
 
 <pre>
-Bạn có thể đi xe buýt <b>hoặc</b> taxi. (Statement)
-“You can go by bus <b>or</b> taxi.”
+Bạn có thể đi xe buýt <b>hoặc</b> taxi.
+"You can go by bus <b>or</b> taxi."
 </pre>
 
 <pre>
-Bạn uống trà <b>hay</b> cà phê? (Question)
-“Do you drink tea <b>or</b> coffee?”
+Bạn uống trà <b>hay</b> cà phê?
+"Do you drink tea <b>or</b> coffee?"
+</pre>
+
+### Logical Bridges
+
+These words hold multiple ideas in one sentence.
+
+<pre>
+Anh ấy cao <b>và</b> gầy.
+"He is tall <b>and</b> thin."
 </pre>
 
 ### Examples
 
 <pre>
-Anh ấy cao <b>và</b> gầy.
-“He is tall <b>and</b> thin.”
-</pre>
-
-<pre>
 Phim hay <b>nhưng</b> hơi dài.
-“The movie is good <b>but</b> a bit long.”
+"The movie is good <b>but</b> a bit long."
 </pre>
 
 <pre>
-Tôi sẽ gọi điện <b>hoặc</b> nhắn tin cho bạn.
-“I will call <b>or</b> text you.”
-</pre>
-
-<pre>
-Ăn ở nhà <b>hay</b> ăn ở ngoài?
-“Eat at home <b>or</b> eat out?”
+Tôi sẽ gọi <b>hoặc</b> nhắn tin.
+"I will call <b>or</b> text."
 </pre>
 
 ### Note on nuance
 
-The distinction between **hoặc** and **hay** is very common. Using **hay** in a question helps the listener know they need to make a choice. Another small tip: you will often see **nhưng mà** instead of just **nhưng**. They mean the same thing, but **nhưng mà** feels slightly more conversational.
+Using **hay** in a statement (e.g., "I eat rice **hay** noodles") sounds confusing to a native speaker because it sounds like you are asking them a question. Stick to **hoặc** for facts and **hay** for choices.

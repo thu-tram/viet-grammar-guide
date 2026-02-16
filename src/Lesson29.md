@@ -1,65 +1,70 @@
 # Lesson 29: Obligation and necessity (phải, cần, nên)
 
-When you need to talk about duties, advice, or requirements, Vietnamese uses three main words: **phải**, **cần**, and **nên**. These words sit directly before the main action.
+Vietnamese separates "must," "need," and "should" into three clear words: **phải**, **cần**, and **nên**.
 
-### Strong Obligation (**phải**)
+### Compulsion with "phải"
 
-Use **phải** when something "must" happen or someone "has to" do something. It feels like a requirement.
+Use **phải** for absolute requirements or external obligations ("must" / "have to").
 
 <pre>
 Tôi <b>phải</b> đi bây giờ.
-“I <b>must</b> go now.”
+"I <b>must</b> go now."
 </pre>
 
-### Necessity (**cần**)
+<pre>
+Ngày mai anh <b>phải</b> đi làm.
+"Tomorrow I <b>have to</b> go to work."
+</pre>
 
-Use **cần** when you "need" to do something. This is more about personal need or logical necessity.
+### Requirement with "cần"
+
+Use **cần** for logical needs or necessities ("need").
 
 <pre>
 Bạn <b>cần</b> uống nước.
-“You <b>need</b> to drink water.”
+"You <b>need</b> to drink water."
 </pre>
 
-### Advice (**nên**)
+<pre>
+Tôi <b>cần</b> gặp bác sĩ.
+"I <b>need</b> to see a doctor."
+</pre>
 
-Use **nên** to say what someone "should" do. It is softer and suggests a good course of action.
+### Suggestion with "nên"
+
+Use **nên** for advice or recommendations ("should").
 
 <pre>
 Bạn <b>nên</b> nghỉ ngơi.
-“You <b>should</b> rest.”
+"You <b>should</b> rest."
 </pre>
 
-### Not needing to (**không cần**)
+<pre>
+Chúng ta <b>nên</b> ăn nhiều rau.
+"We <b>should</b> eat more vegetables."
+</pre>
 
-To say someone doesn't have to do something, use **không cần**. (Note: **không phải** usually means "not is" or "not true," so use **không cần** for lack of necessity).
+### The "Right?" question
+
+You will often hear **phải không** at the end of a sentence. This asks for confirmation of truth.
 
 <pre>
-Em <b>không cần</b> lo lắng.
-“You <b>don't need</b> to worry.”
+Bạn là sinh viên, <b>phải không</b>?
+"You are a student, <b>right</b>? (Is that <b>correct</b>?)"
 </pre>
 
 ### Examples
 
 <pre>
-Ngày mai anh <b>phải</b> đi làm.
-“Tomorrow I <b>have to</b> go to work.”
+Em <b>không cần</b> lo lắng.
+"You <b>don't need</b> to worry."
 </pre>
 
 <pre>
-Chúng ta <b>nên</b> ăn nhiều rau.
-“We <b>should</b> eat more vegetables.”
-</pre>
-
-<pre>
-Tôi <b>cần</b> gặp bác sĩ.
-“I <b>need</b> to see a doctor.”
-</pre>
-
-<pre>
-Con <b>phải</b> học bài xong mới được đi chơi.
-“You <b>must</b> finish your lessons before being allowed to go play.”
+Con <b>phải</b> làm bài tập.
+"You <b>must</b> do homework."
 </pre>
 
 ### Note on nuance
 
-The word **phải** is very strong. Use it when there is no other choice. **Nên** is much friendlier for giving advice to friends. You might also hear **phải không?** at the end of a sentence—in that case, it means "right?" or "isn't that true?" As you listen, try to distinguish between things people _want_ to do and things they **phải** do.
+**Phải** is strong and often unavoidable. **Nên** is friendly and helpful. Be careful not to overuse **phải** when you just mean to give advice, or you might sound bossy!

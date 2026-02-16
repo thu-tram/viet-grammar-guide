@@ -1,51 +1,64 @@
 # Lesson 41: Counting and classifiers
 
-Counting in Vietnamese is different from English because almost every noun needs a "classifier"—a special word that describes the category of the object.
+In Vietnamese, you generally cannot just put a number directly in front of a noun. You need a "classifier" in between to categorize the object.
 
-### The Counting Pattern
+### The Triple Pattern
 
-The standard structure is: **Number + Classifier + Noun**.
+The golden rule for counting is: **Number + Classifier + Noun**.
 
 <pre>
-<b>Hai con</b> mèo.
-“<b>Two (animal classifier)</b> cats.”
+Hai <b>con</b> mèo.
+"Two <b>(animate)</b> cats."
 </pre>
 
-### Common Classifiers
+<pre>
+Một <b>cái</b> bàn.
+"One <b>(inanimate)</b> table."
+</pre>
 
-- **con**: For animals and some active things (birds, rivers, knives).
-- **cái**: For inanimate objects (chairs, tables, general things).
-- **chiếc**: For vehicles, shoes, and some manufactured items.
-- **cuốn / quyển**: For books and bound materials.
-- **người / vị**: For people (vị is more respectful).
-- **tờ**: For flat things like paper or tickets.
+### Object Categories
 
-### When to omit classifiers
+Classifiers tell you about the nature of the object.
+- **cái**: General inanimate objects (tables, chairs, bottles).
+- **con**: Animals and children.
+- **chiếc**: Vehicles (cars, bikes) and boats.
+- **người**: People.
 
-If you are talking about quantities in a general sense (like "I like cats" vs. "I have two cats"), you often don't need the classifier. You also usually don't need them with measurements (meters, kilos).
+### Naming before Counting
+
+The classifier acts as a unit of measure. Just as English says "two *loaves* of bread" or "two *sheets* of paper," Vietnamese requires this for almost everything.
+
+<pre>
+Ba <b>cuốn</b> sách.
+"Three <b>(bound volumes)</b> books."
+</pre>
+
+### General vs. Specific
+
+If you are talking about a category in general, you don't need the classifier. You only need it when counting or pointing at a specific item.
+
+<pre>
+Tôi thích <b>chó</b>. (General)
+"I like dogs."
+</pre>
+
+<pre>
+Tôi nuôi hai <b>con chó</b>. (Specific count)
+"I raise two <b>(animal)</b> dogs."
+</pre>
 
 ### Examples
 
 <pre>
-Tôi có <b>ba cuốn</b> sách.
-“I have <b>three</b> books.”
+Năm <b>người</b> bạn.
+"Five <b>(people)</b> friends."
 </pre>
 
 <pre>
-Cho tôi <b>một cái</b> ghế.
-“Give me <b>one</b> chair.”
-</pre>
-
-<pre>
-Có <b>năm người</b> trong phòng.
-“There are <b>five people</b> in the room.”
-</pre>
-
-<pre>
-Mua <b>hai chiếc</b> xe máy.
-“Buy <b>two</b> motorbikes.”
+Bốn <b>tờ</b> giấy.
+"Four <b>(sheets)</b> paper."
 </pre>
 
 ### Note on nuance
 
-Classifiers are the "soul" of Vietnamese nouns. They help the listener visualize the shape or nature of the object even before the noun is said. While it feels like a lot to learn, **cái** and **con** will cover a huge percentage of your daily needs. As you immersion, notice how nouns are almost never "naked" when they are being counted or pointed at!
+**Cái** is the most common classifier for things, and **con** for animals. If you forget the specific classifier for a detailed object (like a blurry mental image), **cái** is often a safe backup for inanimate things.

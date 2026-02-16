@@ -1,65 +1,50 @@
 # Lesson 40: Emphasis and fronting
 
-Vietnamese is very flexible with word order when you want to emphasize a specific part of your sentence. By moving a word to the front (fronting), you are telling the listener: "This is what I am really talking about right now."
+To emphasize something, move it to the front.
 
-### Topic Fronting with **thì**
+### Framing with "thì"
 
-The most common way to emphasize a topic is to pull it to the very front and follow it with the word **thì**.
+Pull a topic to the front and add **thì** to say "As for X..."
 
 <pre>
-Cá <b>thì</b> tôi thích, nhưng thịt <b>thì</b> không.
-“(As for) fish, I like (it), but (as for) meat, I don't.”
+Cá <b>thì</b> tôi thích.
+"Fish, <b>(topic marker)</b> I like."
 </pre>
 
-### Emphasizing the Subject or Object
+### Topic Displacement
 
-You can move almost anything to the front to make it the center of attention.
+You can freely move an object to the start to make it the focus.
 
 <pre>
-<b>Việc đó</b> tôi làm được.
-“<b>That task</b>, I can do.” (Instead of "I can do that task.")
+<b>Việc đó</b> tôi biết.
+"<b>That matter</b>, I know."
 </pre>
 
-### Using **chính** for Precision
+### Precision with "chính"
 
-To say "precisely" or "the very one," use **chính** before the noun.
+**Chính** means "exactly" or "the very one."
 
 <pre>
-<b>Chính là</b> anh ấy!
-“It is <b>exactly</b> him!”
+<b>Chính</b> là anh ấy!
+"It is <b>exactly</b> him!"
 </pre>
 
-### Using **cả** for "Even"
+### Inclusion with "cả"
 
-To emphasize that something includes even the most unlikely things, use **cả**.
+**Cả** means "even" (including the extreme).
 
 <pre>
-Tôi ăn <b>cả</b> ớt nữa.
-“I eat <b>even</b> chili too.”
+Quên <b>cả</b> tên.
+"Forgot <b>even</b> the name."
 </pre>
 
 ### Examples
 
 <pre>
-<b>Hôm nay thì</b> tôi rảnh.
-“<b>As for today</b>, I am free.”
-</pre>
-
-<pre>
-<b>Tiếng Việt thì</b> khó, nhưng vui.
-“<b>As for Vietnamese</b>, (it) is hard, but fun.”
-</pre>
-
-<pre>
-<b>Chính tôi</b> đã thấy việc đó.
-“<b>Exactly I (I myself)</b> saw that.”
-</pre>
-
-<pre>
-Anh ấy quên <b>cả</b> tên tôi.
-“He <b>even</b> forgot my name.”
+<b>Hôm nay thì</b> bận.
+"<b>As for today</b>, (I am) busy."
 </pre>
 
 ### Note on nuance
 
-Fronting is what makes Vietnamese feel "topic-comment" (revisiting Lesson 1!). It allows you to set the stage before you give the information. **Thì** is like a little pause that says "About this thing..." As you listen to native speakers, you'll see they front things constantly to keep the conversation focused on the most important information.
+Fronting makes your Vietnamese sound very natural. Instead of "I don't like meat," try "Meat, I don't like" (Thịt thì tôi không thích). It sets the context immediately.

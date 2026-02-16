@@ -1,51 +1,55 @@
 # Lesson 33: Result and consequence (nên, cho nên, thành ra)
 
-Following up on the "reason" words, we also have words that focus specifically on the **result** or the **consequence**.
+Sometimes you want to focus specifically on the result or consequence of an action.
 
-### So (**nên / cho nên**)
+### Expected Results with "nên"
 
-**Nên** is the most common way to say "so." **Cho nên** is just a slightly longer, more formal version that adds a bit more weight to the result.
+**Nên** is the standard marker for logical results ("so" / "therefore").
 
 <pre>
 Tôi bận <b>nên</b> không đi được.
-“I'm busy, <b>so</b> I can't go.”
+"I'm busy, <b>so</b> I can't go."
 </pre>
 
-### The Unexpected Result (**thành ra**)
+### Weighty Results with "cho nên"
 
-The phrase **thành ra** is used when a result happens that you might not have planned or expected. It’s like saying "consequently," "and so it turned out that..." or "ended up."
+**Cho nên** is a slightly heavier, more formal version of **nên**.
 
 <pre>
-Trễ xe buýt <b>thành ra</b> tôi phải đi bộ.
-“(I) missed the bus, <b>consequently</b> I had to walk.”
+Anh ấy học giỏi <b>cho nên</b> được học bổng.
+"He studies well, <b>therefore</b> he got a scholarship."
 </pre>
 
-### The Logic Flow
+### Accidental Results with "thành ra"
 
-In Vietnamese, results are almost always clearly marked. While English might just use a comma, Vietnamese prefers to signaling the "therefore" moment with one of these words.
+**Thành ra** introduces a specific result that wasn't necessarily planned. It means "turned out that" or "consequently."
+
+<pre>
+Quên mang ô <b>thành ra</b> bị ướt.
+"Forgot umbrella, <b>so it turned out</b> (I) got wet."
+</pre>
+
+### Storytelling Logic
+
+These words build a narrative bridge: [Event A] -> [Connector] -> [Event B].
+
+<pre>
+Trời mưa to <b>thành ra</b> hủy chuyến đi.
+"Rain was heavy, <b>consequently</b> canceled the trip."
+</pre>
 
 ### Examples
 
 <pre>
-Anh ấy học rất giỏi <b>cho nên</b> được học bổng.
-“He studied very well, <b>and so</b> he got a scholarship.”
+Thích ăn cay <b>nên</b> cho nhiều ớt.
+"(I) like spicy eating, <b>so</b> (I) put lots of chili."
 </pre>
 
 <pre>
-Quên mang ô <b>thành ra</b> bị ướt hết.
-“(I) forgot an umbrella, <b>so it turned out</b> (I) got all wet.”
-</pre>
-
-<pre>
-Tôi thích ăn cay <b>nên</b> cho thêm nhiều ớt.
-“I like eating spicy food, <b>so</b> I added more chili.”
-</pre>
-
-<pre>
-Mọi người đều đồng ý <b>thành ra</b> việc này rất dễ.
-“Everyone agreed, <b>consequently</b> this matter was very easy.”
+Xe hỏng <b>nên</b> phải đi bộ.
+"Car broke, <b>so</b> had to walk."
 </pre>
 
 ### Note on nuance
 
-**Thành ra** often carries a slightly resigned or casual tone. It's very common when recounting a story about how things went wrong or changed unexpectedly. **Nên** and **cho nên** are your reliable workhorses for everyday logic. Listening for these markers will help you map out the "cause and effect" in any Vietnamese conversation.
+**Thành ra** often has a casual, storytelling vibe ("...and so I ended up..."). **Nên** is your everyday logic connector. Notice how they signal that the next part of the sentence is the "outcome."

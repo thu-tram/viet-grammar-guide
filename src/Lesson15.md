@@ -1,56 +1,68 @@
 # Lesson 15: Aspect markers: đã, đang, sẽ, rồi, từng
 
-Since Vietnamese verbs don't change their form, we use small words called **aspect markers** to show _when_ or _how_ an action happens. The most important thing to know is that these markers are often **optional** if the context is already clear.
+Since verbs don't change form, Vietnamese uses "aspect markers"—small words placed before or after the verb—to clarify the status of an action.
 
-### The Big Three
+### Process markers
 
-- **đang** (Ongoing): Place this before the verb to show something is happening right now.
-  <pre>Tôi <b>đang</b> học. (I <b>am</b> studying.)</pre>
-- **đã** (Past): Place this before the verb for past actions.
-  <pre>Tôi <b>đã</b> ăn. (I <b>[past]</b> ate.)</pre>
-- **sẽ** (Future): Place this before the verb for future actions.
-  <pre>Tôi <b>sẽ</b> đi. (I <b>will</b> go.)</pre>
+Three common markers go **before** the verb:
+- **đang** (ongoing / -ing)
+- **đã** (past / completion)
+- **sẽ** (future / will)
 
-### Completion with **rồi**
+<pre>
+Tôi <b>đang</b> học.
+"I <b>am</b> studying."
+</pre>
 
-Unlike the markers above, **rồi** goes at the **end** of the sentence. It means "already" and is used extremely often to show a change in state or a finished task.
+<pre>
+Tôi <b>sẽ</b> đi.
+"I <b>will</b> go."
+</pre>
+
+### Completion with "rồi"
+
+**Rồi** goes at the **end** of a sentence to show that something is already finished or a state has changed ("already").
 
 <pre>
 Tôi ăn <b>rồi</b>.
-“I <b>already</b> ate.”
+"I (have) eaten <b>already</b>."
 </pre>
 
-### Experience with **từng**
+<pre>
+Em làm xong <b>rồi</b>.
+"I finished <b>already</b>."
+</pre>
 
-Use **từng** before a verb to talk about something you have done at least once in your life (similar to "ever" or "have once").
+### Experience with "từng"
+
+Use **từng** before a verb to express that you have "once" or "ever" done something in the past.
 
 <pre>
 Tôi <b>từng</b> đến Pháp.
-“I have <b>once</b> been to France.”
+"I have <b>once</b> been to France."
 </pre>
+
+### Redundancy Avoidance
+
+These markers are often **optional**. If you say "Tomorrow I go," the word "Tomorrow" is enough; you don't strictly need **sẽ**. Vietnamese tends to drop **đã** and **sẽ** if the context is clear, but **đang** and **rồi** are used frequently to emphasize the flow of events.
 
 ### Examples
 
 <pre>
 Mẹ <b>đang</b> nấu cơm.
-“Mom <b>is</b> cooking.”
-</pre>
-
-<pre>
-Anh ấy <b>sẽ</b> gọi lại sau.
-“He <b>will</b> call back later.”
-</pre>
-
-<pre>
-Em làm xong <b>rồi</b>.
-“I’ve <b>already</b> finished.”
+"Mom <b>is</b> cooking."
 </pre>
 
 <pre>
 Bạn <b>từng</b> ăn món này chưa?
-“Have you <b>ever</b> eaten this dish?”
+"Have you <b>ever</b> eaten this dish?"
+</pre>
+
+<pre>
+Anh ấy <b>sẽ</b> gọi lại sau.
+"He <b>will</b> call back later."
 </pre>
 
 ### Note on nuance
 
-In real conversations, Vietnamese speakers drop **đã** and **sẽ** much more often than English speakers drop "did" or "will." If you say "Yesterday I go," the "Yesterday" already does the work. **Đang** and **rồi**, however, are used very frequently because they add important information about the _flow_ of the action.
+Think of these words as highlighters. You use them when you want to spotlight *when* or *how* the action is happening. If the timing isn't the point, you can often leave them out.

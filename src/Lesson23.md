@@ -1,56 +1,69 @@
 # Lesson 23: Direction and movement verbs
 
-In Vietnamese, movement is very specific. Many verbs already have the "direction" built into them. Instead of just saying "go" + a preposition, you choose a specific verb that tells the listener exactly where you are heading.
+In Vietnamese, movement is very specific. Many verbs have "direction" built into them, or use a directional suffix to show exactly where the action is headed.
 
-### The Basic Directions
+### The Five Core Directions
 
-- **ra**: Outward (or toward the north, or toward a bigger city/main street).
-- **vào**: Inward (or toward the south, or toward a smaller street/room).
-- **lên**: Up (or toward the highlands/mountains).
-- **xuống**: Down (or toward the delta/lowlands).
-- **về**: Return (home, to your hometown, or to where you belong).
+- **ra**: Outward / North / To a busy place
+- **vào**: Inward / South / To a quiet place
+- **lên**: Up / To highlands
+- **xuống**: Down / To lowlands / From a vehicle
+- **về**: Return / Home
 
-### Combining Movement
+### Directional Suffixes
 
-You can add these direction words after a main action verb to show _how_ and _where_ someone is moving.
+You attach these words to the end of action verbs to show the path of movement.
 
 <pre>
-Chạy <b>ra</b>. (Run <b>out</b>.)
-Đi <b>vào</b>. (Walk <b>in</b>.)
-Nhìn <b>lên</b>. (Look <b>up</b>.)
+Đi <b>lên</b>.
+"Go <b>up</b>."
 </pre>
 
-### Returning Home (**về**)
+<pre>
+Nhìn <b>xuống</b>.
+"Look <b>down</b>."
+</pre>
 
-One of the most important cultural nuances is **về**. You don't "go" (_đi_) home; you always "return" (_về_) home.
+<pre>
+Chạy <b>ra</b> ngoài.
+"Run <b>out</b> outside."
+</pre>
+
+### The Inward/Outward Perspective
+
+The logic of **ra** and **vào** is perspective-based. Going from a small room to the street is **ra**. Going from the street into a house is **vào**.
+
+<pre>
+Mời bạn <b>vào</b> nhà.
+"Please come <b>in</b> (to the house)."
+</pre>
+
+### Home as a Destination
+
+When going to the place where you live or belong, you always use **về**.
 
 <pre>
 Tôi <b>về</b> nhà.
-“I’m going (returning) home.”
+"I <b>return</b> home."
+</pre>
+
+<pre>
+Bao giờ bạn <b>về</b> nước?
+"When do you <b>return</b> to (your) country?"
 </pre>
 
 ### Examples
 
 <pre>
 Anh ấy đi <b>ra</b> Hà Nội.
-“He is going (out/up) to Hanoi.”
-</pre>
-
-<pre>
-Mời bạn vào <b>trong</b> nhà.
-“Please come <b>in</b> (into) the house.”
+"He is going <b>out</b> (north) to Hanoi."
 </pre>
 
 <pre>
 Chúng ta đi <b>lên</b> tầng hai nhé.
-“Let's go <b>up</b> to the second floor.”
-</pre>
-
-<pre>
-Khi nào bạn <b>về</b> quê?
-“When are you <b>returning</b> to your hometown?”
+"Let's go <b>up</b> to the second floor, okay?"
 </pre>
 
 ### Note on nuance
 
-The choice between **ra/vào** or **lên/xuống** can sometimes feel tricky because it depends on your perspective. Generally, "ra" is toward the "outside" or "center of activity," while "vào" is toward the "inside" or "quiet area." As you immerse, you'll see that these words are used even for things like "logging in" (**đăng nhập vào**) or "turning on" the light. Just start by noticing the physical movement first.
+This system is deeply ingrained. You rarely just "go" somewhere; you go "out," "in," "up," or "down" to it. Pay attention to how locals use **ra** and **vào** for things like "logging in" (**vào**) or "going out to eat" (**ra** quán).

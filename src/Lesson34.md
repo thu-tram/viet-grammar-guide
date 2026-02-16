@@ -1,56 +1,55 @@
 # Lesson 34: Condition with “nếu”
 
-To talk about things that _might_ happen, Vietnamese uses the word **nếu** (if). Just like the "Because... so..." pattern, Vietnamese has a very common "If... then..." pattern.
+To talk about hypothetical situations ("if"), Vietnamese uses the **nếu... thì...** pattern.
 
-### The "If... Then..." Pattern (**Nếu ... thì ...**)
+### The Conditional Frame
 
-In Vietnamese, if you start a sentence with **nếu**, you almost always use **thì** to introduce the result. Even though English often drops the "then," Vietnamese keeps it to make the logic clear.
-
-<pre>
-<b>Nếu</b> ngày mai mưa <b>thì</b> tôi ở nhà.
-“<b>If</b> it rains tomorrow, <b>(then)</b> I’ll stay home.”
-</pre>
-
-### Hypothetical "If" (**nếu như**)
-
-If you want to emphasize that something is a "what if" scenario or a bit more hypothetical, you can use **nếu như**.
+Just like "Because... so...", the "If... then..." pattern is a fixed pair: **Nếu [Condition], thì [Result]**.
 
 <pre>
-<b>Nếu như</b> tôi là bạn, tôi sẽ không làm thế.
-“<b>If</b> I were you, I wouldn't do that.”
+<b>Nếu</b> trời mưa <b>thì</b> tôi ở nhà.
+"<b>If</b> it rains, <b>then</b> I stay home."
 </pre>
 
-### Omitting "Nếu"
+### Strong Hypotheticals with "nếu như"
 
-In casual speech, Vietnamese speakers sometimes drop **nếu** and just use **thì** to show the condition. The context makes the "if" part obvious.
+**Nếu như** adds a "what if" flavor, often effectively emphasizing the condition.
+
+<pre>
+<b>Nếu như</b> tôi là bạn...
+"<b>If</b> I were you..."
+</pre>
+
+### Short-hand Conditions
+
+In conversation, you can drop **nếu** and just use **thì** to imply the "if."
 
 <pre>
 Thích <b>thì</b> mua đi!
-“(If you) like (it), <b>then</b> buy (it)!”
+"(If you) like (it), <b>then</b> buy (it)!"
+</pre>
+
+### Future Possibilities
+
+These markers anchor thoughts about things that haven't happened yet.
+
+<pre>
+<b>Nếu</b> rảnh <b>thì</b> đi cà phê.
+"<b>If</b> free, <b>then</b> go for coffee."
 </pre>
 
 ### Examples
 
 <pre>
-<b>Nếu</b> có thời gian <b>thì</b> mình đi cà phê nhé?
-“<b>If</b> (we) have time, <b>then</b> let's go for coffee, okay?”
+<b>Nếu</b> cần giúp <b>thì</b> gọi tôi.
+"<b>If</b> need help, <b>then</b> call me."
 </pre>
 
 <pre>
-<b>Nếu</b> bạn cần giúp đỡ <b>thì</b> cứ gọi tôi.
-“<b>If</b> you need help, <b>then</b> just call me.”
-</pre>
-
-<pre>
-<b>Nếu như</b> không có anh, em không biết làm sao.
-“<b>If</b> it weren't for you, I wouldn't know what to do.”
-</pre>
-
-<pre>
-Đắt quá <b>thì</b> không mua.
-“(If it's) too expensive, <b>then</b> (I) won't buy (it).”
+Đắt quá <b>thì</b> thôi.
+"(If it's) too expensive, <b>then</b> never mind."
 </pre>
 
 ### Note on nuance
 
-The word **thì** is incredibly common and versatile. While it means "then" in an "if" sentence, it can also act as a topic marker (like "as for..."). For now, just focus on the **Nếu ... thì ...** pair. It’s like a set of bookends that holds your conditional thoughts together.
+**Thì** is a powerful little word. In this context, it acts as the bridge that says "then this happens." Even if you don't say **nếu**, saying **thì** makes the listener understand that the first part was a condition.

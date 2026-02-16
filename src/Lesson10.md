@@ -1,63 +1,68 @@
-# Lesson 10: Basic negation with “không”, “chưa”, “chẳng”
+# Lesson 10: Basic negation with "không", "chưa", "chẳng"
 
-Negating a statement in Vietnamese is quite straightforward. You generally place a negation word directly before the verb or adjective you want to negate. The three most common words for this are **không**, **chưa**, and **chẳng**.
+To negate a statement in Vietnamese, you generally place a negation word directly before the verb or adjective you want to negate. The three most common words are **không**, **chưa**, and **chẳng**.
 
-### **không** (Not / No)
+### Universal negation with "không"
 
 This is the standard, all-purpose negation. It is used for facts, habits, or general statements.
 
 <pre>
-Tôi không đói.
-“I am not hungry.”
+Tôi <b>không</b> đói.
+"I am <b>not</b> hungry."
 </pre>
-
-### **chưa** (Not yet)
-
-One of the most important patterns in Vietnamese is the distinction between "not" and "not yet." If something hasn't happened but _might_ or _should_ happen in the future, you use **chưa**.
 
 <pre>
-Tôi chưa ăn cơm.
-“I haven't eaten yet.”
+Anh ấy <b>không</b> đi làm.
+"He is <b>not</b> going to work."
 </pre>
 
-### **chẳng** (Not at all / Not really)
+### The "not yet" concept with "chưa"
+
+One of the most important patterns in Vietnamese is the distinction between "not" and "not yet." If something hasn't happened but might or should happen in the future, you use **chưa**.
+
+<pre>
+Tôi <b>chưa</b> ăn cơm.
+"I have <b>not</b> eaten <b>yet</b>."
+</pre>
+
+<pre>
+Trời <b>chưa</b> mưa.
+"It has <b>not</b> rained <b>yet</b>."
+</pre>
+
+### Emotional negation with "chẳng"
 
 This is a more casual and sometimes more emphatic way of saying "not." It often carries a bit of emotion or a dismissive tone.
 
 <pre>
-Nó chẳng nói gì cả.
-“He didn't say anything at all.”
+Nó <b>chẳng</b> nói gì cả.
+"He did <b>not</b> say anything at all!"
 </pre>
 
-### Word Placement
+### Pre-verb placement
 
 In all these cases, the negation word comes right before the action or the quality. Unlike English, which sometimes uses "don't," "doesn't," or "isn't," Vietnamese keeps it simple by just swapping the negation word.
 
 <pre>
-Anh ấy không đi làm.
-“He is not going to work.”
+Họ <b>chẳng bao giờ</b> đến muộn.
+"They <b>never</b> come late (not ever)."
 </pre>
 
 ### Examples
 
 <pre>
-Em không biết.
-“I don't know.”
+Em <b>không</b> biết.
+"I <b>don't</b> know."
 </pre>
 
 <pre>
-Trời chưa mưa.
-“It hasn't rained yet.”
+Tôi <b>không</b> thích trà.
+"I <b>don't</b> like tea."
 </pre>
 
 <pre>
-Họ chẳng bao giờ đến muộn.
-“They are never late (They don't ever come late).”
-</pre>
-
-<pre>
-Tôi không thích trà, tôi thích cà phê.
-“I don't like tea; I like coffee.”
+Mai <b>chưa</b> về.
+"Mai has <b>not</b> returned <b>yet</b>."
 </pre>
 
 ### Note on nuance

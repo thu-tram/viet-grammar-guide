@@ -1,70 +1,75 @@
 # Lesson 22: Equality and difference
 
-When comparing things, you often want to say they are the "same" or "different." In Vietnamese, these concepts center around a few key words: **giống**, **khác**, and **như**.
+When comparing things, you often want to say they are the "same" or "different." Vietnamese uses specific words to link these concepts.
 
-### Being the Same (**giống**)
+### Similarity with "giống"
 
-To say two things are similar or identical, use **giống**. You can also use **giống nhau** when referring to a group of things.
+To say two things look or feel the same, use **giống**. It implies a strong resemblance.
 
 <pre>
-Hai cái này <b>giống nhau</b>.
-“These two are <b>the same</b>.”
+Hai cái này <b>giống</b> nhau.
+"These two are <b>alike</b> (same as each other)."
 </pre>
 
 <pre>
-Tôi <b>giống</b> bố tôi.
-“I am <b>like</b> my father.”
+Con <b>giống</b> bố.
+"The child is <b>like</b> (resembles) the father."
 </pre>
 
-### Being Different (**khác**)
+### Contrast with "khác"
 
-To say things are different, use **khác**. Likewise, **khác nhau** means "different from each other."
+To say things are different, use **khác**. It can also mean "another" or "else."
 
 <pre>
 Màu này <b>khác</b> màu kia.
-“This color is <b>different (from)</b> that color.”
+"This color is <b>different (from)</b> that color."
 </pre>
 
-### Like / As (**như**)
+<pre>
+Cho tôi cái <b>khác</b>.
+"Give me <b>another</b> one."
+</pre>
 
-The word **như** is often used for comparisons of manner or likeness, similar to "like" or "as" in English.
+### Likeness with "như"
+
+**Như** is used for comparisons of manner ("like" or "as"). It’s often used in similes.
 
 <pre>
 Đẹp <b>như</b> tranh.
-“Beautiful <b>as</b> a painting.”
+"Beautiful <b>as</b> a painting."
 </pre>
 
-### The "Same" as in "Equal": **cùng**
+<pre>
+Làm <b>như</b> vậy.
+"Do it <b>like</b> that."
+</pre>
 
-If you want to say you share the same thing (like the same room or the same idea), you use **cùng**.
+### Collective Identity with "cùng"
+
+**Cùng** shows that two things share the same space, time, or category (co-).
 
 <pre>
 Chúng tôi <b>cùng</b> một lớp.
-“We are in the <b>same</b> class.”
+"We are in the <b>same</b> class."
+</pre>
+
+<pre>
+Họ sống <b>cùng</b> nhà.
+"They live in the <b>same</b> (co-reside) house."
 </pre>
 
 ### Examples
 
 <pre>
 Hai chị em nhìn <b>giống nhau</b> quá!
-“The two sisters look so <b>much alike</b>!”
+"The two sisters look so <b>much alike</b>!"
 </pre>
 
 <pre>
 Mỗi người có một ý kiến <b>khác</b>.
-“Each person has a <b>different</b> opinion.”
-</pre>
-
-<pre>
-Làm <b>như</b> vậy đi.
-“Do it <b>like</b> that.”
-</pre>
-
-<pre>
-Họ sống <b>cùng</b> một nhà.
-“They live in the <b>same</b> house.”
+"Each person has a <b>different</b> opinion."
 </pre>
 
 ### Note on nuance
 
-While **bằng** (from the previous lesson) is used for specific qualities like "as tall as," **giống** is used for overall similarity. You’ll often hear **giống hệt** (identical) or **khác hẳn** (completely different) for more emphasis. Pay attention to how **khác** is also used to mean "another" or "else," like in **người khác** (someone else/another person).
+**Giống** is about resemblance, while **bằng** (from the previous lesson) is about equal measurement. You can be **cao bằng** (as tall as) someone without being **giống** (looking like) them.

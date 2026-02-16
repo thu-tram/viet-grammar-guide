@@ -1,66 +1,70 @@
 # Lesson 19: Adverbs and adverb placement
 
-Adverbs are words that describe _how_ an action is done (like "quickly") or _how often_ it happens (like "often"). In Vietnamese, the position of the adverb depends on what kind of information it is giving.
+Adverbs describe *how* or *how often* an action happens. In Vietnamese, their position depends on the type of information they provide.
 
-### How an action is done (Manner)
+### Post-Verb Manner
 
-Words that describe the quality of an action usually go **after** the verb.
+Words that describe *how* an action is done (quality) usually go **after** the verb.
 
 <pre>
 Anh ấy chạy <b>nhanh</b>.
-“He runs <b>fast</b>.”
+"He runs <b>fast</b>."
 </pre>
 
 <pre>
 Em nói <b>chậm</b> thôi.
-“Speak <b>slowly</b> please.”
+"Speak <b>slowly</b> please."
 </pre>
 
-### How often it happens (Frequency)
+### Pre-Verb Frequency
 
-Words describing frequency usually go **before** the verb, similar to English.
+Words describing *how often* something happens usually go **before** the verb.
 
 <pre>
 Tôi <b>thường</b> đi bộ.
-“I <b>often</b> walk.”
+"I <b>often</b> walk."
 </pre>
 
 <pre>
 Họ <b>ít khi</b> ăn tối ở ngoài.
-“They <b>rarely</b> eat out.”
+"They <b>rarely</b> eat out."
 </pre>
 
-### Doubling for flavor (Reduplication)
+### Double Words for Emphasis
 
-Vietnamese often repeats a word to turn it into a softer or more descriptive adverb.
+Vietnamese frequently repeats an adverb (reduplication) to soften the meaning or make it more vivid.
 
 <pre>
 Đi <b>thong thả</b>.
-“Go <b>leisurely/calmly</b>.”
+"Go <b>leisurely/calmly</b>."
+</pre>
+
+### Flexible Quality Words
+
+Many adverbs are simply adjectives used in new spots. **Nhanh** means "fast" (adjective) or "quickly" (adverb) depending on where it sits.
+
+<pre>
+Xe <b>nhanh</b>. (Adjective)
+Chạy <b>nhanh</b>. (Adverb)
 </pre>
 
 ### Examples
 
 <pre>
 Bạn làm việc rất <b>giỏi</b>.
-“You work very <b>well</b>.”
-</pre>
-
-<pre>
-Chúng tôi <b>hay</b> gặp nhau.
-“We <b>frequently</b> meet each other.”
+"You work very <b>well</b>."
 </pre>
 
 <pre>
 Con mèo ngủ <b>ngon</b>.
-“The cat sleeps <b>soundly</b>.”
+"The cat sleeps <b>soundly</b>."
 </pre>
 
 <pre>
-Đừng đi <b>nhanh quá</b>.
-“Don't go <b>too fast</b>.”
+Chúng tôi <b>hay</b> gặp nhau.
+"We <b>frequently</b> meet each other."
 </pre>
 
 ### Note on nuance
 
-Notice that many adverbs in Vietnamese are actually the same words as adjectives. For example, **nhanh** can mean "fast" (adjective) or "fast/quickly" (adverb). The context and the word order tell you which one it is. As you listen, pay attention to the "rhythm" of frequency words vs. manner words—it will help you place them naturally in your own sentences.
+Pay attention to the rhythm: frequency first, action second, manner last. This pattern helps you naturally place descriptive words in the right spot.

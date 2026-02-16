@@ -1,62 +1,72 @@
 # Lesson 16: Completed vs ongoing actions
 
-Building on the last lesson, Vietnamese makes a very clear distinction between whether an action is a work-in-progress or a finished result.
+Vietnamese sharply distinguishes between an action that is currently happening and one that has reached a result.
 
-### Completion with **xong**
+### Focusing on the Result with "xong"
 
-While **rồi** means "already," the word **xong** specifically means "finished" or "done." Placing **xong** after a verb is the best way to show that a task is complete.
+The word **xong** indicates "finished" or "done." Placing **xong** after a verb emphasizes that the task is completed.
 
 <pre>
 Tôi ăn <b>xong</b> rồi.
-“I am <b>finished</b> eating already.”
+"I (am) <b>finished</b> eating already."
 </pre>
-
-Compare this to:
 
 <pre>
-Tôi <b>đang</b> ăn.
-“I <b>am</b> eating (right now).”
+Đọc <b>xong</b> cuốn sách này.
+"<b>Finished</b> reading this book."
 </pre>
 
-### The "Still" Action: **vẫn** and **vẫn đang**
+### Continuous States with "vẫn"
 
-If you want to emphasize that something is _still_ happening and hasn't finished yet, use **vẫn** or **vẫn đang** before the verb.
+To say that something is *still* happening and hasn't ended, use **vẫn** (or **vẫn đang**) before the verb.
 
 <pre>
 Trời <b>vẫn đang</b> mưa.
-“It is <b>still</b> raining.”
+"It is <b>still</b> raining."
 </pre>
 
-### Result vs. Process
+<pre>
+Họ <b>vẫn</b> làm việc.
+"They <b>still</b> work."
+</pre>
 
-Notice how Vietnamese often pairs words to be precise.
+### Checking Status
 
-- **Đang làm**: Doing it (process).
-- **Làm xong**: Finished doing it (result).
-- **Chưa làm xong**: Not finished yet (incomplete process).
+A very common daily phrase is **Xong chưa?** (Done yet?).
+
+<pre>
+Học <b>xong chưa</b>?
+"Finished studying <b>yet</b>?"
+</pre>
+
+### Process vs. Climax
+
+Notice the logic:
+- **Đang** (Process): In the middle of doing it.
+- **Xong** (Climax): The moment it is done.
+
+<pre>
+Em <b>đang</b> viết thư. (Process)
+"I <b>am</b> writing a letter."
+</pre>
+
+<pre>
+Viết <b>xong</b> chưa? (Result check)
+"Finished writing yet?"
+</pre>
 
 ### Examples
 
 <pre>
-Học <b>xong</b> chưa?
-“Finished studying yet?”
+Anh ấy <b>vẫn</b> chờ.
+"He is <b>still</b> waiting."
 </pre>
 
 <pre>
-Em <b>đang</b> viết thư.
-“I’<b>m</b> writing a letter.”
-</pre>
-
-<pre>
-Họ <b>vẫn</b> làm việc ở đó.
-“They <b>still</b> work there.”
-</pre>
-
-<pre>
-Đọc <b>xong</b> cuốn sách này rồi.
-“(I) have <b>finished</b> reading this book already.”
+Chưa làm <b>xong</b>.
+"Not finished yet."
 </pre>
 
 ### Note on nuance
 
-You'll see **xong** used for everything from finishing a meal to finishing a project. It’s a very satisfying word to use! When you say **đang**, you are inviting the listener into the moment. When you say **xong**, you are moving the conversation past that action. Pay attention to how often people check in with "Xong chưa?" (Done yet?) in daily life.
+**Xong** implies a specific task or action is effectively over. It is very satisfying to use. Contrast this with **rồi** (already), which just marks a change. You often hear them together: **Xong rồi** (It's done already!).

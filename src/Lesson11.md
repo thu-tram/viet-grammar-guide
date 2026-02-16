@@ -1,69 +1,78 @@
 # Lesson 11: Yes–no questions
 
-Creating a yes–no question in Vietnamese is often as simple as adding a question word to the end of a regular statement. You don't need to change the word order or use helper verbs like "do" or "are."
+Creating a yes–no question in Vietnamese is often as simple as adding a question word to the end of a regular statement. You do not need to change the word order or use helper verbs.
 
-### Using **không**
+### Ending with "không"
 
-The most common way to ask a simple yes–no question is to add **không** at the end.
-
-<pre>
-Bạn đói không?
-“Are you hungry?”
-</pre>
-
-You might also see the pattern **có ... không**. This makes the question slightly more formal or clear, but the meaning remains the same.
+The most common way to turn a statement into a question is to add **không** at the end.
 
 <pre>
-Bạn có đói không?
-“Are you hungry?”
+Bạn đói <b>không</b>?
+"Are you hungry?"
 </pre>
-
-### Using **chưa**
-
-When asking if something has happened _yet_, use **chưa** at the end instead of **không**.
 
 <pre>
-Anh ăn cơm chưa?
-“Have you eaten yet?”
+Em hiểu <b>không</b>?
+"Do you understand?"
 </pre>
 
-This is one of the most common greetings in Vietnam. It’s more of a "How are you?" than a literal question about your meal.
+### The "Có... không?" Frame
 
-### Responses
+You might also see the pattern **có ... không**. This makes the question slightly more formal or explicit, but the meaning remains the same.
+
+<pre>
+Bạn <b>có</b> đói <b>không</b>?
+"Are you hungry?"
+</pre>
+
+<pre>
+Chị <b>có</b> mệt <b>không</b>?
+"Are you tired?"
+</pre>
+
+### Checking Completion with "chưa"
+
+When asking if something has happened *yet*, use **chưa** at the end instead of **không**.
+
+<pre>
+Anh ăn cơm <b>chưa</b>?
+"Have you eaten <b>yet</b>?"
+</pre>
+
+<pre>
+Trời mưa <b>chưa</b>?
+"Has it rained <b>yet</b>?"
+</pre>
+
+### Verb-Based Responses
 
 To answer, you usually repeat the verb or the adjective.
-
-- To say "yes," you repeat the verb or just say **có**.
-- To say "no," you say **không** or **chưa** followed by the verb.
+- To say "yes," repeat the verb or just say **có**.
+- To say "no," say **không** or **chưa** followed by the verb.
 
 <pre>
 – Đi không? (Want to go?)
-– Đi. (Yes / Going.)
-– Không đi. (No / Not going.)
+– <b>Đi</b>. (Yes.)
+– <b>Không đi</b>. (No.)
 </pre>
 
 ### Examples
 
 <pre>
-Em hiểu không?
-“Do you understand?”
+Phim hay <b>không</b>?
+"Is the movie good?"
 </pre>
 
 <pre>
-Phim hay không?
-“Is the movie good?”
+Bạn <b>có</b> xe <b>không</b>?
+"Do you have a car?"
 </pre>
 
 <pre>
-Trời mưa chưa?
-“Has it rained yet?”
-</pre>
-
-<pre>
-Chị có mệt không?
-“Are you tired?”
+Học xong <b>chưa</b>?
+"Finished studying <b>yet</b>?"
 </pre>
 
 ### Note on flexibility
 
-Vietnamese questions are very melodic. You’ll notice that the tone of your voice stays relatively steady, and the word at the end does all the work of turning the statement into a question. As you listen to more Vietnamese, you’ll hear how **không** and **chưa** act like little signals that an answer is expected.
+Vietnamese questions are very melodic. You’ll notice that the tone of your voice stays relatively steady, and the word at the end (**không** or **chưa**) does all the work of signaling that an answer is expected. As you listen, treat these words as simple "question markers."

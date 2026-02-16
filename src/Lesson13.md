@@ -1,74 +1,75 @@
-# Lesson 13: Sentence-final particles (à, hả, nhé, nhỉ, ạ, etc.)
+# Lesson 13: Sentence-final particles
 
-Vietnamese is famous for its "flavor words"—small particles at the end of a sentence that don't change the basic meaning but add a specific mood, emotion, or level of politeness. These are called sentence-final particles.
+Vietnamese uses small words called particles at the end of sentences to add mood, emotion, or politeness. They function like "flavor words" that shape how the sentence feels.
 
-### Adding Politeness with **ạ**
+### Politeness with "ạ"
 
-The word **ạ** is used at the very end of a sentence when speaking to someone older or in a position of respect. It doesn't mean anything on its own; it just shows you are being polite.
+The particle **ạ** is used at the very end of a sentence to show respect to someone older or higher in status. It doesn't change the meaning, only the tone.
 
 <pre>
-Chào cô ạ.
-“Hello (ma'am).”
+Chào cô <b>ạ</b>.
+"Hello (ma'am)."
 </pre>
 
-### Asking for Agreement with **nhé**
-
-If you want to suggest something or make sure the other person is okay with a plan, use **nhé**. It's like saying "okay?" or "shall we?"
-
 <pre>
-Chúng ta đi nhé?
-“Shall we go?”
+Con cảm ơn mẹ <b>ạ</b>.
+"Thank you, Mom."
 </pre>
 
-### Expressing Surprise or Realization with **à**
+### Agreement with "nhé"
 
-When you just realized something or want to confirm a fact with a bit of a "Oh, I see" feeling, use **à**.
+Use **nhé** to suggest something or check that the other person is okay with a plan. It translates roughly to "okay?" or "shall we?"
 
 <pre>
-Anh là người Mỹ à?
-“Oh, so you are American?”
+Chúng ta đi <b>nhé</b>?
+"Shall we go, <b>okay</b>?"
 </pre>
 
-### Casual Questions with **hả**
-
-This is a very common, informal way to turn a statement into a question, similar to "huh?" or "right?"
-
 <pre>
-Đẹp hả?
-“It's beautiful, right? / Really?”
+Ăn cơm <b>nhé</b>!
+"Let's eat, <b>okay</b>!"
 </pre>
 
-### Thinking Out Loud with **nhỉ**
+### Confirmation with "à" and "hả"
 
-When you are making a comment about something and inviting the other person to agree, or just musing to yourself, use **nhỉ**.
+**À** expresses realization or mild surprise.
+<pre>
+Anh là người Mỹ <b>à</b>?
+"Oh, so you are American?"
+</pre>
+
+**Hả** is a casual way to convert a statement into a question, like "huh?" or "right?"
+<pre>
+Đẹp <b>hả</b>?
+"It's beautiful, <b>right</b>?"
+</pre>
+
+### Shared Sentiment with "nhỉ"
+
+Use **nhỉ** to invite the other person to agree with your observation, or when musing to yourself.
 
 <pre>
-Hôm nay trời đẹp nhỉ?
-“It's a beautiful day, isn't it?”
+Hôm nay trời đẹp <b>nhỉ</b>?
+"It's a beautiful day, <b>isn't it</b>?"
 </pre>
 
 ### Examples
 
 <pre>
-Con cảm ơn mẹ ạ.
-“Thank you, Mom.”
+Em chưa biết <b>à</b>?
+"You don't know yet? (Oh!)"
 </pre>
 
 <pre>
-Ăn cơm nhé!
-“Let's eat!”
+Nóng quá <b>nhỉ</b>?
+"It's so hot, don't you think?"
 </pre>
 
 <pre>
-Em chưa biết à?
-“You don't know yet? (Oh!)”
-</pre>
-
-<pre>
-Nóng quá nhỉ?
-“It's so hot, don't you think?”
+Đi chơi <b>nhé</b>?
+"Let's go out, okay?"
 </pre>
 
 ### Note on nuance
 
-These particles are the "secret sauce" of natural Vietnamese. You don't need to master all of them at once. Just start noticing how they change the "music" of the conversation. **Ạ** is always safe to use for politeness, while **nhé** is great for being friendly. The best way to learn these is to listen to the tone of voice people use when they say them.
+These particles are the "secret sauce" of natural Vietnamese. **Ạ** is the safest one to use for politeness. **Nhé** is very friendly and common. Listen to the tone of voice people use with these words—that melody is part of the grammar.

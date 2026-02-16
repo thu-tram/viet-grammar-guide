@@ -1,60 +1,55 @@
 # Lesson 32: Cause and reason (vì, tại, do)
 
-When explaining _why_ something happened, Vietnamese uses **vì**, **tại**, and **do**. These words help you link a cause to its effect.
+Explaining *why* something happened involves linking a cause to an effect.
 
-### Because (**vì**)
+### Neutral Causality with "vì"
 
-This is the most common, neutral word for "because." It is almost always paired with **nên** (so) in the second half of the sentence.
+**Vì** is the standard word for "because." It is almost always paired with **nên** (so) to complete the thought.
 
 <pre>
 <b>Vì</b> trời mưa <b>nên</b> tôi ở nhà.
-“<b>Because</b> it rained, <b>(so)</b> I stayed home.”
+"<b>Because</b> it rains, <b>(so)</b> I stay home."
 </pre>
 
-### Blaming or Negative Reason (**tại**)
+### Blame with "tại"
 
-Use **tại** when the reason is a mistake or something negative. It’s like saying "it's because of... (and it's bad)."
+Use **tại** when the reason is a mistake or something negative ("because of").
 
 <pre>
-<b>Tại</b> anh <b>nên</b> chúng ta bị muộn!
-“<b>Because of</b> you, we are late!”
+<b>Tại</b> anh <b>nên</b> chúng ta muộn.
+"<b>Because of</b> you, <b>(so)</b> we are late."
 </pre>
 
-### Formal or Neutral Cause (**do**)
+### Formal Origin with "do"
 
-The word **do** is often used in more formal context or for neutral scientific/logical reasons.
+**Do** is often used in formal contexts or for technical/logical reasons ("due to").
 
 <pre>
 Tai nạn <b>do</b> bất cẩn.
-“The accident was <b>due to</b> carelessness.”
+"Accident <b>due to</b> carelessness."
 </pre>
 
-### The "Because... So..." Pattern
+### The "Cause... Result" Frame
 
-It is very natural in Vietnamese to state both the cause and the result using the **Vì ... nên ...** structure. Even if English only uses one ("Because it rained, I stayed home"), Vietnamese likes to have both markers.
+The **Vì ... nên ...** structure acts as a frame for your sentence. Even if English drops the "so," Vietnamese usually keeps **nên**.
+
+<pre>
+<b>Vì</b> mệt <b>nên</b>đi ngủ sớm.
+"<b>Because</b> (I'm) tired, <b>(so)</b> (I) go to sleep early."
+</pre>
 
 ### Examples
 
 <pre>
-<b>Vì</b> mệt <b>nên</b> em đi ngủ sớm.
-“<b>Because</b> (I'm) tired, <b>so</b> I'm going to sleep early.”
+<b>Tại</b> tắc đường <b>nên</b> đến trễ.
+"<b>Because of</b> traffic jam, <b>(so)</b> arrived late."
 </pre>
 
 <pre>
-<b>Tại</b> tắc đường <b>nên</b> tôi đến trễ.
-“<b>Because of</b> a traffic jam, <b>so</b> I arrived late.”
-</pre>
-
-<pre>
-Mọi việc đều <b>do</b> bạn quyết định.
-“Everything is <b>due to (up to)</b> your decision.”
-</pre>
-
-<pre>
-<b>Vì</b> thích tiếng Việt <b>nên</b> tôi học mỗi ngày.
-“<b>Because</b> (I) like Vietnamese, <b>so</b> I study every day.”
+<b>Vì</b> thích tiếng Việt <b>nên</b> học mỗi ngày.
+"<b>Because</b> (I) like Vietnamese, <b>(so)</b> (I) study every day."
 </pre>
 
 ### Note on nuance
 
-Be careful with **tại**. If you use it with a person, it can sound like you are accusing them! If you want to be polite, stick with **vì**. As you listen to Vietnamese speakers, notice how they almost always follow a "why" sentence with **nên**. It creates a very clear logical flow that makes the language easy to follow.
+Be careful with **tại**—it implies fault. If you say **Tại bạn**, you are accusing someone! For neutral explanations, **vì** is always safe.

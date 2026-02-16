@@ -1,55 +1,75 @@
 # Lesson 42: Quantifiers (mỗi, mọi, vài, nhiều)
 
-When you don't want to use a specific number, you can use **quantifiers** to talk about "each," "all," "some," or "many."
+When you don't need an exact number, you use quantifiers to describe amounts.
 
-### Each and Every (**mỗi / mọi**)
+### Individual focus with "mỗi"
 
-- **mỗi**: Used for "each" individual thing in a group.
-  <pre><b>Mỗi</b> ngày một ít. (<b>Each</b> day a little.)</pre>
-- **mọi**: Used for "all" or "every" members of a group collectively.
-  <pre><b>Mọi</b> người đều biết. (<b>Everyone</b> knows.)</pre>
-
-### A few / Some (**vài**)
-
-Use **vài** for a small, unspecified number (usually between 2 and 9).
+**Mỗi** means "each." It focuses on the individual members of a group separately.
 
 <pre>
-Tôi có <b>vài</b> người bạn.
-“I have <b>a few</b> friends.”
+<b>Mỗi</b> người một ý.
+"<b>Each</b> person (has) one opinion."
 </pre>
 
-### Many and Few (**nhiều / ít**)
+<pre>
+Tôi đi học <b>mỗi</b> ngày.
+"I go to school <b>each</b> day."
+</pre>
 
-- **nhiều**: Many / Much.
-- **ít**: Few / Little.
+### Total focus with "mọi"
+
+**Mọi** means "every" or "all." It treats the group as a collective whole.
 
 <pre>
-Ở đây có <b>nhiều</b> xe quá!
-“There are <b>many</b> vehicles here!”
+<b>Mọi</b> thứ đều tốt.
+"<b>Every</b> thing is good. (Everything is fine)."
+</pre>
+
+<pre>
+Chào <b>mọi</b> người.
+"Hello <b>every</b> person (everyone)."
+</pre>
+
+### Indefinite sets with "vài"
+
+**Vài** implies a small, indefinite number ("a few," "some," "several").
+
+<pre>
+Chờ <b>vài</b> phút.
+"Wait <b>a few</b> minutes."
+</pre>
+
+<pre>
+Tôi có <b>vài</b> câu hỏi.
+"I have <b>a few</b> questions."
+</pre>
+
+### Broad Amounts with "nhiều / ít"
+
+**Nhiều** (many/much) and **ít** (few/little) function almost like adjectives.
+
+<pre>
+Ở đây có <b>nhiều</b> xe.
+"Here has <b>many</b> vehicles."
+</pre>
+
+<pre>
+Ăn <b>ít</b> thôi.
+"Eat <b>little</b> (only)."
 </pre>
 
 ### Examples
 
 <pre>
-<b>Mỗi</b> tháng tôi về quê một lần.
-“<b>Each</b> month I return home once.”
+<b>Mỗi</b> sáng tôi đều uống cà phê.
+"<b>Each</b> morning I drink coffee."
 </pre>
 
 <pre>
-<b>Mọi</b> thứ đều ổn.
-“<b>Everything</b> is fine.”
-</pre>
-
-<pre>
-Chờ tôi <b>vài</b> phút nhé.
-“Wait for me <b>a few</b> minutes, okay?”
-</pre>
-
-<pre>
-Anh ấy ăn rất <b>ít</b> cơm.
-“He eats very <b>little</b> rice.”
+Cảm ơn <b>mọi</b> người.
+"Thank you <b>every</b> one."
 </pre>
 
 ### Note on nuance
 
-Notice that **nhiều** and **ít** can also act as adjectives ("A lot of rice" vs "The rice is a lot"). You’ll often hear **rất nhiều** to mean "very many" or "a lot." Use **mỗi** when you want to focus on individual items and **mọi** for the whole group. Congratulations—you’ve completed the guide! Keep immersing and these patterns will soon feel like second nature.
+Use **mỗi** when you want to highlight distinctions ("Each student has a different book"). Use **mọi** when you want to highlight unity ("Every student passed"). And with that, you have completed the core grammar guide!

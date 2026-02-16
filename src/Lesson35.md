@@ -1,56 +1,60 @@
 # Lesson 35: Purpose with “để”
 
-To explain _why_ you are doing an action in terms of a goal or purpose, Vietnamese uses the word **để** (in order to / for).
+To explain *why* you are doing something—your goal or purpose—use **để** (in order to / for).
 
-### Stating your Goal
+### The Goal Marker "để"
 
-The pattern is usually: **Action + để + Goal**.
+The pattern is **Action + để + Goal**.
 
 <pre>
 Tôi học tiếng Việt <b>để</b> đi du lịch.
-“I study Vietnamese <b>(in order) to</b> travel.”
+"I study Vietnamese <b>to</b> travel."
 </pre>
 
-### Putting Purpose First
+### Fronting the Purpose
 
-You can also put the purpose at the beginning of the sentence to show what is most important.
+You can put **để** at the start to emphasize the goal.
 
 <pre>
-<b>Để</b> giỏi tiếng Việt, bạn cần nghe nhiều.
-“<b>To</b> be good at Vietnamese, you need to listen a lot.”
+<b>Để</b> giỏi, bạn cần tập luyện.
+"<b>To</b> be good, you need to practice."
 </pre>
 
-### Purpose vs. Giving
+### Purpose vs. Person
 
-Remember from Lesson 25 that **cho** means "to give" or "for a person." **Để** is used for "for a purpose" or "with the goal of."
+Distinguish between **cho** (for a person) and **để** (for a purpose).
 
 <pre>
-Mua hoa <b>cho</b> mẹ. (Giving to a person)
-Mua hoa <b>để</b> trang trí nhà. (For a purpose)
+Mua <b>cho</b> mẹ. (For Mom)
+Mua <b>để</b> ăn. (To eat)
+</pre>
+
+### Physical "Letting"
+
+**Để** also means "to put," "to place," or "to leave/let."
+
+<pre>
+<b>Để</b> tôi làm.
+"<b>Let</b> me do (it)."
+</pre>
+
+<pre>
+<b>Để</b> đó.
+"<b>Leave</b> (it) there."
 </pre>
 
 ### Examples
 
 <pre>
-Em dậy sớm <b>để</b> tập thể dục.
-“I wake up early <b>to</b> exercise.”
+Em dậy sớm <b>để</b> chạy bộ.
+"I wake up early <b>to</b> jog."
 </pre>
 
 <pre>
-Chúng tôi cố gắng làm việc <b>để</b> tiết kiệm tiền.
-“We try to work <b>in order to</b> save money.”
-</pre>
-
-<pre>
-Hãy để lại tin nhắn <b>để</b> tôi gọi lại.
-“Please leave a message <b>so that</b> I (can) call back.”
-</pre>
-
-<pre>
-<b>Để</b> hiểu rõ hơn, chúng ta nên đọc tài liệu này.
-“<b>To</b> understand more clearly, we should read this document.”
+Làm việc <b>để</b> kiếm tiền.
+"Work <b>to</b> earn money."
 </pre>
 
 ### Note on nuance
 
-You'll also hear **để** used to mean "let" or "let it be" in phrases like **Để đó!** ("Leave it there!"). However, in sentences with an action, its primary job is to bridge the "what you are doing" with the "why you are doing it." It’s a great word for explaining your motivations.
+**Để** answers the question "to what end?" (để làm gì?). It links your action to your Future intention.

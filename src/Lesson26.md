@@ -1,58 +1,65 @@
 # Lesson 26: Benefactive constructions (làm cho ai)
 
-Building on the previous lesson, the word **cho** isn't just for giving physical objects. It is also used to show that an action is being done _for_ someone’s benefit. This is often called a benefactive construction.
+In Vietnamese, doing something *for* someone else uses the word **cho** (to give) as a connector. It bridges the action to the beneficiary.
 
-### Doing an Action "For" Someone
+### Doing Actions "For" Others
 
-The pattern is: **Subject + Verb + (Object) + cho + Person**.
+The pattern is: [Action] + **cho** + [Person].
 
 <pre>
 Mẹ nấu cơm <b>cho</b> con.
-“Mom cooks rice <b>for</b> me.”
+"Mom cooks rice <b>for</b> me."
 </pre>
 
-You aren’t giving the "rice" to the person in a literal transaction; you are performing the "cooking" for their sake.
+<pre>
+Anh mua hoa <b>cho</b> vợ.
+"He buys flowers <b>for</b> (his) wife."
+</pre>
 
-### Providing Information
+### Instructional "cho"
 
-You also use **cho** when telling or explaining something to someone.
+You also use **cho** when communicating information *to* someone.
 
 <pre>
 Nói <b>cho</b> tôi biết.
-“Tell <b>(for)</b> me know. (Tell me.)”
+"Tell <b>(for)</b> me (to) know. (Tell me.)"
 </pre>
 
-### Making Something Happen
+<pre>
+Giải thích <b>cho</b> tôi hiểu.
+"Explain <b>(for)</b> me (to) understand."
+</pre>
 
-Sometimes, **cho** is used to mean "let" or "allow" something to happen.
+### Permissive "cho"
+
+In some contexts, **cho** means "let" or "allow."
 
 <pre>
 Để <b>cho</b> em làm.
-“Let <b>(for)</b> me do it.”
+"Let <b>(for)</b> me do it."
+</pre>
+
+### Favor-Based Logic
+
+The person receiving the "good" usually follows the **cho**. You are literally "giving" the result of the action to them.
+
+<pre>
+Hãy làm <b>cho</b> tôi một việc.
+"Please do a favor <b>for</b> me."
 </pre>
 
 ### Examples
 
 <pre>
-Anh mua hoa <b>cho</b> vợ.
-“He buys flowers <b>for</b> (his) wife.”
+Chị viết thư <b>cho</b> bạn.
+"She writes a letter <b>for/to</b> (her) friend."
 </pre>
 
 <pre>
-Chị viết thư <b>cho</b> bạn nhé?
-“Are you writing a letter <b>for/to</b> your friend?”
-</pre>
-
-<pre>
-Hãy làm <b>cho</b> tôi một việc.
-“Please do a favor <b>for</b> me.”
-</pre>
-
-<pre>
-Giải thích <b>cho</b> tôi hiểu với.
-“Explain it <b>(for)</b> me to understand.”
+Mua <b>cho</b> con cái này nhé?
+"Buy this <b>for</b> me, okay?"
 </pre>
 
 ### Note on nuance
 
-In English, we use "to," "for," or "at" depending on the verb ("talk _to_ me," "do it _for_ me"). In Vietnamese, **cho** covers almost all of these situations when someone else benefits from the action. It makes the language very consistent. As you listen, notice how **cho** acts as a bridge between the action and the person who is being helped.
+In English, we switch between "to," "for," and "at." In Vietnamese, **cho** covers most situations where an action is directed toward someone's benefit. It simplifies the logic: Action -> Give -> Person.
